@@ -10,7 +10,24 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "katapult": {
+    "gameControllerNames": [
+      "Play",
+      "Game",
+      "X-Box",
+      "Dragon"
+    ],
+    "linkDeviceName": "hephaestus-16c00486",
+    "robotName": "HephaestusArmV2_Janz",
+    "robotGitFile": "HephaestusArmV2_Janz.xml",
+    "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
+  },
+  "studio-open-git": {
+    "https://github.com/JansenSmith/HephaestusArmV2_Janz.git:HephaestusArmV2_Janz.xml": [
+      "https://github.com/JansenSmith/HephaestusArmV2_Janz.git",
+      "HephaestusArmV2_Janz.xml"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.30.0",
