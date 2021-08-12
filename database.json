@@ -23,9 +23,9 @@
     "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
   },
   "studio-open-git": {
-    "https://github.com/JansenSmith/HephaestusArmV2_Janz.git:HephaestusArmV2_Janz.xml": [
-      "https://github.com/JansenSmith/HephaestusArmV2_Janz.git",
-      "HephaestusArmV2_Janz.xml"
+    "https://github.com/JansenSmith/41-dover.git:SecondFloor.SVG": [
+      "https://github.com/JansenSmith/41-dover.git",
+      "SecondFloor.SVG"
     ]
   },
   "BowlerStudioConfigs": {
