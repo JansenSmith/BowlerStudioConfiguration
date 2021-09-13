@@ -4,6 +4,10 @@
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "1631540426339"
     ],
+    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
+      "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
+      "1631540426839"
+    ],
     "https://github.com/JansenSmith/helloWorld_JansenSmith.git": [
       "JansenSmith/helloWorld_JansenSmith",
       "1628455050437"
@@ -50,6 +54,10 @@
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
       "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
       "capScrew.groovy"
+    ],
+    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git:LewanSoulHorn.groovy": [
+      "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
+      "LewanSoulHorn.groovy"
     ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
