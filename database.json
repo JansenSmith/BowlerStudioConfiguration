@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
+      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
+      "1631540427339"
+    ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "1631540426339"
