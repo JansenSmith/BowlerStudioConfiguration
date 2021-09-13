@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
+      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
+      "1631540426339"
+    ],
     "https://github.com/JansenSmith/helloWorld_JansenSmith.git": [
       "JansenSmith/helloWorld_JansenSmith",
       "1628455050437"
@@ -27,9 +31,29 @@
     "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
   },
   "studio-open-git": {
+    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git:LewanSoulMotor.groovy": [
+      "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
+      "LewanSoulMotor.groovy"
+    ],
     "https://github.com/JansenSmith/41-dover.git:SecondFloor.SVG": [
       "https://github.com/JansenSmith/41-dover.git",
       "SecondFloor.SVG"
+    ],
+    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git:bearing.groovy": [
+      "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
+      "bearing.groovy"
+    ],
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
+      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
+      "heatedThreadedInsert.groovy"
+    ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
+      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
+      "capScrew.groovy"
+    ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
+      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
+      "cadGenHephaestusArm.groovy"
     ]
   },
   "BowlerStudioConfigs": {
