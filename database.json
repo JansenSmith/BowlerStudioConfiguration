@@ -70,7 +70,7 @@
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 16.0,
-    "skinBranch": "1.25.1",
+    "skinBranch": "1.36.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true,
     "currentVersion": "1.36.0"
