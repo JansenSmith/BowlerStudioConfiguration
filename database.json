@@ -1,5 +1,25 @@
 {
   "workspace": {
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
+      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
+      "1631540426339"
+    ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
+      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
+      "1631540428101"
+    ],
+    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
+      "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
+      "1631540428615"
+    ],
+    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
+      "WPIRoboticsEngineering/RBELabCustomParts",
+      "1648509171443"
+    ],
+    "none": [
+      "Project none",
+      "1646761350147"
+    ],
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
       "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
       "1631540427339"
@@ -8,25 +28,13 @@
       "WPIRoboticsEngineering/Modular-Maze",
       "1646779258790"
     ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
-      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
-      "1631540426339"
-    ],
     "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
       "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
       "1631540426839"
     ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
-      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
-      "1631540428101"
-    ],
     "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
       "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
       "1631540429182"
-    ],
-    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
-      "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
-      "1631540428615"
     ],
     "https://github.com/JansenSmith/helloWorld_JansenSmith.git": [
       "JansenSmith/helloWorld_JansenSmith",
@@ -39,10 +47,6 @@
     "https://github.com/JansenSmith/41-dover.git": [
       "JansenSmith/41-dover",
       "1628801078176"
-    ],
-    "none": [
-      "Project none",
-      "1646761350147"
     ],
     "https://github.com/madhephaestus/CorsetParametric.git": [
       "https://github.com/madhephaestus/CorsetParametric.git",
@@ -63,6 +67,10 @@
     "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
   },
   "studio-open-git": {
+    "https://github.com/madhephaestus/CorsetParametric.git:corset.groovy": [
+      "https://github.com/madhephaestus/CorsetParametric.git",
+      "corset.groovy"
+    ],
     "none:/home/janzen/Downloads/Maze_Wall_Post.stl": [
       "none",
       "/home/janzen/Downloads/Maze_Wall_Post.stl"
