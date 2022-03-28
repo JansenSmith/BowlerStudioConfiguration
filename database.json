@@ -67,6 +67,10 @@
     "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
   },
   "studio-open-git": {
+    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git:Printbed-three-eighths-inch-Spacer.groovy": [
+      "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git",
+      "Printbed-three-eighths-inch-Spacer.groovy"
+    ],
     "https://github.com/madhephaestus/CorsetParametric.git:corset.groovy": [
       "https://github.com/madhephaestus/CorsetParametric.git",
       "corset.groovy"
