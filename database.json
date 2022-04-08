@@ -67,10 +67,6 @@
     "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
   },
   "studio-open-git": {
-    "https://github.com/WPIRoboticsEngineering/Modular-Maze.git:Maze-Wall.groovy": [
-      "https://github.com/WPIRoboticsEngineering/Modular-Maze.git",
-      "Maze-Wall.groovy"
-    ],
     "none:/home/janzen/Downloads/Maze_Wall_Post.stl": [
       "none",
       "/home/janzen/Downloads/Maze_Wall_Post.stl"
