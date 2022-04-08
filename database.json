@@ -69,6 +69,6 @@
     "skinBranch": "main",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true,
-    "currentVersion": "1.44.0"
+    "currentVersion": "1.44.1"
   }
 }
