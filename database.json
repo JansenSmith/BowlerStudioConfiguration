@@ -16,6 +16,10 @@
       "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
       "1631540426839"
     ],
+    "https://github.com/JansenSmith/stlgen.git": [
+      "https://github.com/JansenSmith/stlgen.git",
+      "1649441009440"
+    ],
     "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
       "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
       "1631540429182"
@@ -58,6 +62,10 @@
     "https://github.com/WPIRoboticsEngineering/Modular-Maze.git:Maze-Wall.groovy": [
       "https://github.com/WPIRoboticsEngineering/Modular-Maze.git",
       "Maze-Wall.groovy"
+    ],
+    "https://github.com/JansenSmith/stlgen.git:InitialCreate.groovy": [
+      "https://github.com/JansenSmith/stlgen.git",
+      "InitialCreate.groovy"
     ]
   },
   "BowlerStudioConfigs": {
