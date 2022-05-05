@@ -1,5 +1,13 @@
 {
   "workspace": {
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
+      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
+      "1631540426339"
+    ],
+    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
+      "WPIRoboticsEngineering/RBELabCustomParts",
+      "1648509171443"
+    ],
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
       "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
       "1631540427339"
@@ -7,10 +15,6 @@
     "https://github.com/WPIRoboticsEngineering/Modular-Maze.git": [
       "WPIRoboticsEngineering/Modular-Maze",
       "1646779258790"
-    ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
-      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
-      "1631540426339"
     ],
     "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
       "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
@@ -23,10 +27,6 @@
     "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
       "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
       "1631540429182"
-    ],
-    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
-      "WPIRoboticsEngineering/RBELabCustomParts",
-      "1648509171443"
     ],
     "https://github.com/JansenSmith/helloWorld_JansenSmith.git": [
       "JansenSmith/helloWorld_JansenSmith",
@@ -43,6 +43,10 @@
     "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git": [
       "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
       "1651792847210"
+    ],
+    "https://github.com/JansenSmith/CreatureCadGenerator_JansenSmith.git": [
+      "https://github.com/JansenSmith/CreatureCadGenerator_JansenSmith.git",
+      "1651794678167"
     ],
     "https://github.com/madhephaestus/CorsetParametric.git": [
       "https://github.com/madhephaestus/CorsetParametric.git",
@@ -63,9 +67,21 @@
     "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
   },
   "studio-open-git": {
+    "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git:JansenWalker_SeriesParallelHybrid.xml": [
+      "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
+      "JansenWalker_SeriesParallelHybrid.xml"
+    ],
     "https://github.com/WPIRoboticsEngineering/Modular-Maze.git:Maze-Wall.groovy": [
       "https://github.com/WPIRoboticsEngineering/Modular-Maze.git",
       "Maze-Wall.groovy"
+    ],
+    "https://github.com/JansenSmith/CreatureCadGenerator_JansenSmith.git:CreatureCadGenerator.groovy": [
+      "https://github.com/JansenSmith/CreatureCadGenerator_JansenSmith.git",
+      "CreatureCadGenerator.groovy"
+    ],
+    "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git:ThreeDPrintCad.groovy": [
+      "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
+      "ThreeDPrintCad.groovy"
     ],
     "https://github.com/JansenSmith/stlgen.git:InitialCreate.groovy": [
       "https://github.com/JansenSmith/stlgen.git",
