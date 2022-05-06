@@ -48,6 +48,10 @@
       "https://github.com/JansenSmith/CreatureCadGenerator_JansenSmith.git",
       "1651794678167"
     ],
+    "https://github.com/madhephaestus/6dofServoArm.git": [
+      "https://github.com/madhephaestus/6dofServoArm.git",
+      "1651798531801"
+    ],
     "https://github.com/madhephaestus/CorsetParametric.git": [
       "https://github.com/madhephaestus/CorsetParametric.git",
       "1648486982575"
@@ -71,13 +75,25 @@
       "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
       "JansenWalker_SeriesParallelHybrid.xml"
     ],
+    "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git:Bowler/MediumCad.groovy": [
+      "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
+      "Bowler/MediumCad.groovy"
+    ],
     "https://github.com/WPIRoboticsEngineering/Modular-Maze.git:Maze-Wall.groovy": [
       "https://github.com/WPIRoboticsEngineering/Modular-Maze.git",
       "Maze-Wall.groovy"
     ],
+    "https://github.com/madhephaestus/6dofServoArm.git:Bowler/MediumCad.groovy": [
+      "https://github.com/madhephaestus/6dofServoArm.git",
+      "Bowler/MediumCad.groovy"
+    ],
     "https://github.com/JansenSmith/CreatureCadGenerator_JansenSmith.git:CreatureCadGenerator.groovy": [
       "https://github.com/JansenSmith/CreatureCadGenerator_JansenSmith.git",
       "CreatureCadGenerator.groovy"
+    ],
+    "https://github.com/JansenSmith/CreatureCadGenerator_JansenSmith.git:ExampleCadGenerator.groovy": [
+      "https://github.com/JansenSmith/CreatureCadGenerator_JansenSmith.git",
+      "ExampleCadGenerator.groovy"
     ],
     "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git:ThreeDPrintCad.groovy": [
       "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
