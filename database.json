@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "": [
+      "Project ",
+      "1652136579813"
+    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "https://github.com/madhephaestus/carl-the-hexapod.git",
       "1652136417195"
@@ -78,10 +82,6 @@
     "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git:JansenWalker_SeriesParallelHybrid.xml": [
       "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
       "JansenWalker_SeriesParallelHybrid.xml"
-    ],
-    "https://github.com/madhephaestus/carl-the-hexapod.git:ThreeDPrintCad.groovy": [
-      "https://github.com/madhephaestus/carl-the-hexapod.git",
-      "ThreeDPrintCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
