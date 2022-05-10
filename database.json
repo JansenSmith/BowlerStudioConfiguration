@@ -32,6 +32,10 @@
       "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
       "1631540429182"
     ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
+      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+      "1652141251962"
+    ],
     "https://github.com/JansenSmith/helloWorld_JansenSmith.git": [
       "JansenSmith/helloWorld_JansenSmith",
       "1628455050437"
@@ -78,6 +82,14 @@
     "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git:JansenWalker_SeriesParallelHybrid.xml": [
       "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
       "JansenWalker_SeriesParallelHybrid.xml"
+    ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
+      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+      "servo.groovy"
+    ],
+    "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git:ThreeDPrintCad.groovy": [
+      "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
+      "ThreeDPrintCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
