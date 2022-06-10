@@ -83,6 +83,10 @@
       "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
       "JansenWalker_SeriesParallelHybrid.xml"
     ],
+    "https://github.com/WPIRoboticsEngineering/Modular-Maze.git:Maze-Wall.groovy": [
+      "https://github.com/WPIRoboticsEngineering/Modular-Maze.git",
+      "Maze-Wall.groovy"
+    ],
     "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git:ThreeDPrintCad.groovy": [
       "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
       "ThreeDPrintCad.groovy"
