@@ -1,68 +1,144 @@
 {
   "workspace": {
-    "https://github.com/madhephaestus/carl-the-hexapod.git": [
-      "https://github.com/madhephaestus/carl-the-hexapod.git",
-      "1652136417195"
+    "": [
+      "Project ",
+      "1657396317317"
     ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
-      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
-      "1631540426339"
+    "https://gist.github.com/b1356537edaaad7c4b35.git": [
+      "GIST: difference.groovy",
+      "1650821454831"
     ],
-    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
-      "WPIRoboticsEngineering/RBELabCustomParts",
-      "1648509171443"
+    "https://github.com/madhephaestus/DSLForPollice.git": [
+      "madhephaestus/DSLForPollice",
+      "1651356365840"
     ],
-    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
-      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
-      "1631540427339"
+    "https://gist.github.com/09a7c973ba854d9b8d35.git": [
+      "GIST: sphere.groovy",
+      "1651946833605"
     ],
-    "https://github.com/WPIRoboticsEngineering/Modular-Maze.git": [
-      "WPIRoboticsEngineering/Modular-Maze",
-      "1646779258790"
+    "https://github.com/OperationSmallKat/Luna.git": [
+      "OperationSmallKat/Luna",
+      "1653155325955"
     ],
-    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
-      "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
-      "1631540426839"
-    ],
-    "https://github.com/JansenSmith/stlgen.git": [
-      "https://github.com/JansenSmith/stlgen.git",
-      "1649441009440"
-    ],
-    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
-      "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
-      "1631540429182"
-    ],
-    "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
-      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
-      "1652141251962"
-    ],
-    "https://github.com/JansenSmith/helloWorld_JansenSmith.git": [
-      "JansenSmith/helloWorld_JansenSmith",
-      "1628455050437"
-    ],
-    "https://github.com/JansenSmith/HephaestusArmV2_Janz.git": [
-      "JansenSmith/HephaestusArmV2_Janz",
-      "1628470503501"
-    ],
-    "https://github.com/JansenSmith/41-dover.git": [
-      "JansenSmith/41-dover",
-      "1628801078176"
+    "https://github.com/madhephaestus/mujoco-test.git": [
+      "https://github.com/madhephaestus/mujoco-test.git",
+      "1654018774921"
     ],
     "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git": [
       "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
       "1651792847210"
     ],
+    "https://gist.github.com/21f739b0d9fb10e81af9.git": [
+      "GIST: cartWalker copy of humanoid",
+      "1651788093091"
+    ],
     "https://github.com/JansenSmith/CreatureCadGenerator_JansenSmith.git": [
       "https://github.com/JansenSmith/CreatureCadGenerator_JansenSmith.git",
       "1651794678167"
+    ],
+    "https://gist.github.com/185a0aad1f898ab32e5e.git": [
+      "GIST: cube.groovy",
+      "1652760698480"
+    ],
+    "https://gist.github.com/8e74becf9b9ab8a52279.git": [
+      "GIST: intersect.groovy",
+      "1650821495374"
+    ],
+    "https://github.com/Halloween2020TheChild/FirmwareTheChild.git": [
+      "Halloween2020TheChild/FirmwareTheChild",
+      "1656633381424"
+    ],
+    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git": [
+      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
+      "1657212180015"
+    ],
+    "https://gist.github.com/50d40376ff09d23de63c.git": [
+      "GIST: LoadSTL.groovy",
+      "1650821636533"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
+      "OperationSmallKat/SmallKat_V2",
+      "1653155329221"
     ],
     "https://github.com/madhephaestus/6dofServoArm.git": [
       "https://github.com/madhephaestus/6dofServoArm.git",
       "1651798531801"
     ],
-    "https://github.com/madhephaestus/CorsetParametric.git": [
-      "https://github.com/madhephaestus/CorsetParametric.git",
-      "1648486982575"
+    "https://gist.github.com/bae417566c2b46e3ab94.git": [
+      "GIST: union.groovy",
+      "1650821336700"
+    ],
+    "https://github.com/madhephaestus/carl-the-hexapod.git": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "1652136417195"
+    ],
+    "https://gist.github.com/721302a0ff6d2809b997.git": [
+      "GIST: javaCadHull.groovy",
+      "1650821895204"
+    ],
+    "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git": [
+      "GIST: parabola",
+      "1650820498291"
+    ],
+    "https://github.com/madhephaestus/JansenWalker_SeriesParallelHybrid_copy.git": [
+      "https://github.com/madhephaestus/JansenWalker_SeriesParallelHybrid_copy.git",
+      "1652554744448"
+    ],
+    "https://github.com/CommonWealthRobotics/Installer-Linux-BowlerStudio.git": [
+      "CommonWealthRobotics/Installer-Linux-BowlerStudio",
+      "1653154730363"
+    ],
+    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
+      "Halloween2020TheChild/RazerHydraHIDJava",
+      "1654372278178"
+    ],
+    "https://gist.github.com/2374524a0882601de95fc16e47dfd9e9.git": [
+      "GIST: Slice a csg and fillet around the slice",
+      "1650821593792"
+    ],
+    "https://gist.github.com/8e721186d2ae185a03b8.git": [
+      "GIST: moveRotate.groovy",
+      "1650820988609"
+    ],
+    "https://github.com/Courtnah/courtnahspawn.git": [
+      "Courtnah/courtnahspawn",
+      "1652972991580"
+    ],
+    "https://gist.github.com/9b7b38fb2e2d3c3a2d3ee734c83b7e9d.git": [
+      "GIST: parts that have chamfered",
+      "1652760818013"
+    ],
+    "https://github.com/Hephaestus-Arm/HIDLinkLoader.git": [
+      "Hephaestus-Arm/HIDLinkLoader",
+      "1657225735733"
+    ],
+    "https://gist.github.com/9655185a6b0f3a230158.git": [
+      "GIST: .gitignore",
+      "1654373164120"
+    ],
+    "https://gist.github.com/be239e0b21fc2fe7f6f744321822a9ca.git": [
+      "GIST: CamferedCylinder",
+      "1652550562993"
+    ],
+    "https://gist.github.com/27746e6772959e9544689058d321273e.git": [
+      "GIST: Minkowski opperation examples",
+      "1650821782651"
+    ],
+    "https://gist.github.com/e1357b153496bfa70927.git": [
+      "GIST: resizeScale.groovy",
+      "1650821239406"
+    ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
+      "Halloween2020TheChild/GroguMechanicsCad",
+      "1651194042453"
+    ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
+      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+      "1652141251962"
+    ],
+    "https://github.com/madhephaestus/crystlinematrix.git": [
+      "https://github.com/madhephaestus/crystlinematrix.git",
+      "1655428477575"
     ]
   },
   "studio-open-web": {},
@@ -87,10 +163,33 @@
       "https://github.com/WPIRoboticsEngineering/Modular-Maze.git",
       "Maze-Wall.groovy"
     ],
+    "https://github.com/Hephaestus-Arm/HIDLinkLoader.git:loadUDP.groovy": [
+      "https://github.com/Hephaestus-Arm/HIDLinkLoader.git",
+      "loadUDP.groovy"
+    ],
+    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:Fanuc_LR_Mate_200id_7L.xml": [
+      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
+      "Fanuc_LR_Mate_200id_7L.xml"
+    ],
     "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git:ThreeDPrintCad.groovy": [
       "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
       "ThreeDPrintCad.groovy"
     ]
+  },
+  "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
+    "A": "y-mode",
+    "B": "b-mode",
+    "C": "a-mode",
+    "Mode": "start",
+    "rz": "r-joy-up-down",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "y": "l-joy-up-down",
+    "Y": "l-trig-button",
+    "Right Thumb 2": "select",
+    "z": "r-joy-left-right",
+    "Z": "r-trig-button",
+    "Left Thumb": "analog-trig"
   },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
