@@ -64,10 +64,6 @@
       "https://github.com/JansenSmith/CreatureCadGenerator_JansenSmith.git",
       "1651794678167"
     ],
-    "https://gist.github.com/8e721186d2ae185a03b8.git": [
-      "GIST: moveRotate.groovy",
-      "1650820988609"
-    ],
     "https://github.com/Courtnah/courtnahspawn.git": [
       "Courtnah/courtnahspawn",
       "1652972991580"
@@ -99,6 +95,10 @@
     "https://gist.github.com/27746e6772959e9544689058d321273e.git": [
       "GIST: Minkowski opperation examples",
       "1650821782651"
+    ],
+    "https://github.com/JansenSmith/TheCalledScript_JansenSmith.git": [
+      "https://github.com/JansenSmith/TheCalledScript_JansenSmith.git",
+      "1659213442912"
     ],
     "https://github.com/Halloween2020TheChild/FirmwareTheChild.git": [
       "Halloween2020TheChild/FirmwareTheChild",
@@ -166,6 +166,10 @@
     "https://github.com/JansenSmith/Luna_Parameterization.git:Luna_Parameterization.xml": [
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "Luna_Parameterization.xml"
+    ],
+    "https://github.com/JansenSmith/TheCalledScript_JansenSmith.git:TheCalledScript.groovy": [
+      "https://github.com/JansenSmith/TheCalledScript_JansenSmith.git",
+      "TheCalledScript.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
