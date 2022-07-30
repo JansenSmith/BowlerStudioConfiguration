@@ -163,13 +163,13 @@
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "ServoGear.SVG"
     ],
+    "https://github.com/JansenSmith/Luna_Parameterization.git:GeneratedServoSpline.groovy": [
+      "https://github.com/JansenSmith/Luna_Parameterization.git",
+      "GeneratedServoSpline.groovy"
+    ],
     "https://github.com/JansenSmith/Luna_Parameterization.git:Luna_Parameterization.xml": [
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "Luna_Parameterization.xml"
-    ],
-    "https://github.com/JansenSmith/TheCalledScript_JansenSmith.git:TheCalledScript.groovy": [
-      "https://github.com/JansenSmith/TheCalledScript_JansenSmith.git",
-      "TheCalledScript.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
