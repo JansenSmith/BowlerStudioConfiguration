@@ -16,13 +16,13 @@
       "madhephaestus/DSLForPollice",
       "1651356365840"
     ],
-    "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git": [
-      "GIST: parabola",
-      "1650820498291"
-    ],
     "https://github.com/madhephaestus/JansenWalker_SeriesParallelHybrid_copy.git": [
       "https://github.com/madhephaestus/JansenWalker_SeriesParallelHybrid_copy.git",
       "1652554744448"
+    ],
+    "https://github.com/JansenSmith/Luna_Parameterization.git": [
+      "https://github.com/JansenSmith/Luna_Parameterization.git",
+      "1659206604078"
     ],
     "https://gist.github.com/09a7c973ba854d9b8d35.git": [
       "GIST: sphere.groovy",
@@ -158,22 +158,6 @@
     "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git:JansenWalker_SeriesParallelHybrid.xml": [
       "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
       "JansenWalker_SeriesParallelHybrid.xml"
-    ],
-    "https://github.com/WPIRoboticsEngineering/Modular-Maze.git:Maze-Wall.groovy": [
-      "https://github.com/WPIRoboticsEngineering/Modular-Maze.git",
-      "Maze-Wall.groovy"
-    ],
-    "https://github.com/Hephaestus-Arm/HIDLinkLoader.git:loadUDP.groovy": [
-      "https://github.com/Hephaestus-Arm/HIDLinkLoader.git",
-      "loadUDP.groovy"
-    ],
-    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:Fanuc_LR_Mate_200id_7L.xml": [
-      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
-      "Fanuc_LR_Mate_200id_7L.xml"
-    ],
-    "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git:ThreeDPrintCad.groovy": [
-      "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
-      "ThreeDPrintCad.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
