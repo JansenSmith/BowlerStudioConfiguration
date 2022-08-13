@@ -68,6 +68,10 @@
       "Courtnah/courtnahspawn",
       "1652972991580"
     ],
+    "https://github.com/JansenSmith/Modular-Maze.git": [
+      "JansenSmith/Modular-Maze",
+      "1660419063183"
+    ],
     "https://gist.github.com/9b7b38fb2e2d3c3a2d3ee734c83b7e9d.git": [
       "GIST: parts that have chamfered",
       "1652760818013"
@@ -107,10 +111,6 @@
     "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git": [
       "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
       "1657212180015"
-    ],
-    "https://gist.github.com/e1357b153496bfa70927.git": [
-      "GIST: resizeScale.groovy",
-      "1650821239406"
     ],
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
       "Halloween2020TheChild/GroguMechanicsCad",
@@ -171,13 +171,9 @@
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "GeneratedServoSpline.groovy"
     ],
-    "https://github.com/JansenSmith/Luna_Parameterization.git:Luna_Parameterization.xml": [
-      "https://github.com/JansenSmith/Luna_Parameterization.git",
-      "Luna_Parameterization.xml"
-    ],
-    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:Fanuc_LR_Mate_200id_7L.xml": [
-      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
-      "Fanuc_LR_Mate_200id_7L.xml"
+    "https://github.com/JansenSmith/Modular-Maze.git:Maze-Wall.groovy": [
+      "https://github.com/JansenSmith/Modular-Maze.git",
+      "Maze-Wall.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
