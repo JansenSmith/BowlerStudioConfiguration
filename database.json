@@ -163,6 +163,10 @@
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "ServoGear.SVG"
     ],
+    "https://github.com/JansenSmith/Luna_Parameterization.git:PrintedHorn.groovy": [
+      "https://github.com/JansenSmith/Luna_Parameterization.git",
+      "PrintedHorn.groovy"
+    ],
     "https://github.com/JansenSmith/Luna_Parameterization.git:GeneratedServoSpline.groovy": [
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "GeneratedServoSpline.groovy"
@@ -170,6 +174,10 @@
     "https://github.com/JansenSmith/Luna_Parameterization.git:Luna_Parameterization.xml": [
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "Luna_Parameterization.xml"
+    ],
+    "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git:Fanuc_LR_Mate_200id_7L.xml": [
+      "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
+      "Fanuc_LR_Mate_200id_7L.xml"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
