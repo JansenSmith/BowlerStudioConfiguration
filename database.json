@@ -40,10 +40,6 @@
       "Halloween2020TheChild/RazerHydraHIDJava",
       "1654372278178"
     ],
-    "https://gist.github.com/be239e0b21fc2fe7f6f744321822a9ca.git": [
-      "GIST: CamferedCylinder",
-      "1652550562993"
-    ],
     "https://github.com/JansenSmith/TheCalledScript_JansenSmith.git": [
       "https://github.com/JansenSmith/TheCalledScript_JansenSmith.git",
       "1659213442912"
@@ -55,6 +51,10 @@
     "https://github.com/Halloween2020TheChild/FirmwareTheChild.git": [
       "Halloween2020TheChild/FirmwareTheChild",
       "1656633381424"
+    ],
+    "https://github.com/JansenSmith/FrontRightCad_JansenSmith.git": [
+      "https://github.com/JansenSmith/FrontRightCad_JansenSmith.git",
+      "1662761506002"
     ],
     "https://github.com/OperationSmallKat/Luna.git": [
       "OperationSmallKat/Luna",
@@ -95,9 +95,13 @@
     "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
   },
   "studio-open-git": {
-    "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git:JansenWalker_SeriesParallelHybrid.xml": [
-      "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
-      "JansenWalker_SeriesParallelHybrid.xml"
+    "https://github.com/JansenSmith/FrontRightCad_JansenSmith.git:FrontRightCad.groovy": [
+      "https://github.com/JansenSmith/FrontRightCad_JansenSmith.git",
+      "FrontRightCad.groovy"
+    ],
+    "https://github.com/JansenSmith/Luna_Parameterization.git:FrontLeftCad.groovy": [
+      "https://github.com/JansenSmith/Luna_Parameterization.git",
+      "FrontLeftCad.groovy"
     ],
     "https://github.com/JansenSmith/Luna_Parameterization.git:PrintedHorn.groovy": [
       "https://github.com/JansenSmith/Luna_Parameterization.git",
@@ -106,6 +110,14 @@
     "https://github.com/JansenSmith/Luna_Parameterization.git:GeneratedServoSpline.groovy": [
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "GeneratedServoSpline.groovy"
+    ],
+    "https://github.com/JansenSmith/Luna_Parameterization.git:Luna_Parameterization.xml": [
+      "https://github.com/JansenSmith/Luna_Parameterization.git",
+      "Luna_Parameterization.xml"
+    ],
+    "https://github.com/JansenSmith/Luna_Parameterization.git:RearLeftCad.groovy": [
+      "https://github.com/JansenSmith/Luna_Parameterization.git",
+      "RearLeftCad.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
