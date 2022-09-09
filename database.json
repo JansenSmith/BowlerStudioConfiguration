@@ -99,10 +99,6 @@
       "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
       "JansenWalker_SeriesParallelHybrid.xml"
     ],
-    "https://github.com/JansenSmith/Luna_Parameterization.git:ServoGear.SVG": [
-      "https://github.com/JansenSmith/Luna_Parameterization.git",
-      "ServoGear.SVG"
-    ],
     "https://github.com/JansenSmith/Luna_Parameterization.git:PrintedHorn.groovy": [
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "PrintedHorn.groovy"
