@@ -95,10 +95,6 @@
     "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
   },
   "studio-open-git": {
-    "https://github.com/JansenSmith/FrontRightCad_JansenSmith.git:FrontRightCad.groovy": [
-      "https://github.com/JansenSmith/FrontRightCad_JansenSmith.git",
-      "FrontRightCad.groovy"
-    ],
     "https://github.com/JansenSmith/Luna_Parameterization.git:FrontLeftCad.groovy": [
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "FrontLeftCad.groovy"
