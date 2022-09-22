@@ -103,9 +103,17 @@
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "PrintedHorn.groovy"
     ],
+    "https://github.com/JansenSmith/Luna_Parameterization.git:FrontRightCad.groovy": [
+      "https://github.com/JansenSmith/Luna_Parameterization.git",
+      "FrontRightCad.groovy"
+    ],
     "https://github.com/JansenSmith/Luna_Parameterization.git:GeneratedServoSpline.groovy": [
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "GeneratedServoSpline.groovy"
+    ],
+    "https://github.com/JansenSmith/Luna_Parameterization.git:FLdlimb_test.groovy": [
+      "https://github.com/JansenSmith/Luna_Parameterization.git",
+      "FLdlimb_test.groovy"
     ],
     "https://github.com/JansenSmith/Luna_Parameterization.git:Luna_Parameterization.xml": [
       "https://github.com/JansenSmith/Luna_Parameterization.git",
