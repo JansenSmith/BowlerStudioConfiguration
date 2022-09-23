@@ -119,6 +119,10 @@
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "FLdlimb_test.groovy"
     ],
+    "https://github.com/JansenSmith/castledicetower.git:Another_dice_tower/files/Base.stl": [
+      "https://github.com/JansenSmith/castledicetower.git",
+      "Another_dice_tower/files/Base.stl"
+    ],
     "https://github.com/JansenSmith/Luna_Parameterization.git:Luna_Parameterization.xml": [
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "Luna_Parameterization.xml"
