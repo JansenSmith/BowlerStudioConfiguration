@@ -20,10 +20,6 @@
       "Hephaestus-Arm/HIDLinkLoader",
       "1657225735733"
     ],
-    "https://github.com/madhephaestus/JansenWalker_SeriesParallelHybrid_copy.git": [
-      "https://github.com/madhephaestus/JansenWalker_SeriesParallelHybrid_copy.git",
-      "1652554744448"
-    ],
     "https://github.com/JansenSmith/Luna_Parameterization.git": [
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "1659206604078"
@@ -43,6 +39,10 @@
     "https://github.com/JansenSmith/TheCalledScript_JansenSmith.git": [
       "https://github.com/JansenSmith/TheCalledScript_JansenSmith.git",
       "1659213442912"
+    ],
+    "https://github.com/JansenSmith/castledicetower.git": [
+      "https://github.com/JansenSmith/castledicetower.git",
+      "1663892198300"
     ],
     "https://github.com/WPIRoboticsEngineering/Modular-Maze.git": [
       "WPIRoboticsEngineering/Modular-Maze",
