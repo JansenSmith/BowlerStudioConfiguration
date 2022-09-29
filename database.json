@@ -12,10 +12,6 @@
       "GIST: parts that have chamfered",
       "1652760818013"
     ],
-    "https://gist.github.com/185a0aad1f898ab32e5e.git": [
-      "GIST: cube.groovy",
-      "1652760698480"
-    ],
     "https://github.com/Hephaestus-Arm/HIDLinkLoader.git": [
       "Hephaestus-Arm/HIDLinkLoader",
       "1657225735733"
@@ -72,6 +68,10 @@
       "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
       "1660421700345"
     ],
+    "https://github.com/JansenSmith/CastleDiceTower.git": [
+      "https://github.com/JansenSmith/CastleDiceTower.git",
+      "1664494181935"
+    ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "OperationSmallKat/SmallKat_V2",
       "1653155329221"
@@ -102,6 +102,10 @@
     "https://github.com/JansenSmith/Luna_Parameterization.git:FrontLeftCad.groovy": [
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "FrontLeftCad.groovy"
+    ],
+    "https://github.com/JansenSmith/CastleDiceTower.git:STL_importer.groovy": [
+      "https://github.com/JansenSmith/CastleDiceTower.git",
+      "STL_importer.groovy"
     ],
     "https://github.com/JansenSmith/Luna_Parameterization.git:PrintedHorn.groovy": [
       "https://github.com/JansenSmith/Luna_Parameterization.git",
