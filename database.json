@@ -103,10 +103,6 @@
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "FrontLeftCad.groovy"
     ],
-    "https://github.com/JansenSmith/CastleDiceTower.git:STL_importer.groovy": [
-      "https://github.com/JansenSmith/CastleDiceTower.git",
-      "STL_importer.groovy"
-    ],
     "https://github.com/JansenSmith/Luna_Parameterization.git:PrintedHorn.groovy": [
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "PrintedHorn.groovy"
