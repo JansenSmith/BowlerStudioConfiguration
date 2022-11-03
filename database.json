@@ -99,18 +99,6 @@
       "https://github.com/JansenSmith/castledicetower.git",
       "STL_importer.groovy"
     ],
-    "https://github.com/JansenSmith/Luna_Parameterization.git:FrontLeftCad.groovy": [
-      "https://github.com/JansenSmith/Luna_Parameterization.git",
-      "FrontLeftCad.groovy"
-    ],
-    "https://github.com/JansenSmith/Luna_Parameterization.git:PrintedHorn.groovy": [
-      "https://github.com/JansenSmith/Luna_Parameterization.git",
-      "PrintedHorn.groovy"
-    ],
-    "https://github.com/JansenSmith/Luna_Parameterization.git:FrontRightCad.groovy": [
-      "https://github.com/JansenSmith/Luna_Parameterization.git",
-      "FrontRightCad.groovy"
-    ],
     "https://github.com/JansenSmith/Luna_Parameterization.git:GeneratedServoSpline.groovy": [
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "GeneratedServoSpline.groovy"
@@ -122,14 +110,6 @@
     "https://github.com/JansenSmith/Luna_Parameterization.git:Luna_Parameterization.xml": [
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "Luna_Parameterization.xml"
-    ],
-    "https://github.com/JansenSmith/Luna_Parameterization.git:RearRightCad.groovy": [
-      "https://github.com/JansenSmith/Luna_Parameterization.git",
-      "RearRightCad.groovy"
-    ],
-    "https://github.com/JansenSmith/Luna_Parameterization.git:RearLeftCad.groovy": [
-      "https://github.com/JansenSmith/Luna_Parameterization.git",
-      "RearLeftCad.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
