@@ -1,9 +1,5 @@
 {
   "workspace": {
-    "https://github.com/Courtnah/courtnahspawn.git": [
-      "Courtnah/courtnahspawn",
-      "1652972991580"
-    ],
     "https://github.com/JansenSmith/Modular-Maze.git": [
       "JansenSmith/Modular-Maze",
       "1660419063183"
@@ -60,6 +56,10 @@
       "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
       "1657212180015"
     ],
+    "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git": [
+      "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git",
+      "1667523161395"
+    ],
     "https://github.com/madhephaestus/mujoco-test.git": [
       "https://github.com/madhephaestus/mujoco-test.git",
       "1654018774921"
@@ -97,6 +97,14 @@
   "studio-open-git": {
     "https://github.com/JansenSmith/castledicetower.git:STL_importer.groovy": [
       "https://github.com/JansenSmith/castledicetower.git",
+      "STL_importer.groovy"
+    ],
+    "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git:MoveLimb.groovy": [
+      "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git",
+      "MoveLimb.groovy"
+    ],
+    "https://github.com/JansenSmith/CastleDiceTower.git:STL_importer.groovy": [
+      "https://github.com/JansenSmith/CastleDiceTower.git",
       "STL_importer.groovy"
     ],
     "https://github.com/JansenSmith/Luna_Parameterization.git:GeneratedServoSpline.groovy": [
