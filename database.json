@@ -20,10 +20,6 @@
       "GIST: .gitignore",
       "1654373164120"
     ],
-    "https://github.com/CommonWealthRobotics/Installer-Linux-BowlerStudio.git": [
-      "CommonWealthRobotics/Installer-Linux-BowlerStudio",
-      "1653154730363"
-    ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
       "Halloween2020TheChild/RazerHydraHIDJava",
       "1654372278178"
@@ -79,6 +75,10 @@
     "https://github.com/madhephaestus/crystlinematrix.git": [
       "https://github.com/madhephaestus/crystlinematrix.git",
       "1655428477575"
+    ],
+    "https://github.com/JansenSmith/MoveLimb_JansenSmith.git": [
+      "https://github.com/JansenSmith/MoveLimb_JansenSmith.git",
+      "1668126701945"
     ]
   },
   "studio-open-web": {},
@@ -99,25 +99,9 @@
       "https://github.com/JansenSmith/castledicetower.git",
       "STL_importer.groovy"
     ],
-    "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git:MoveLimb.groovy": [
-      "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git",
+    "https://github.com/JansenSmith/MoveLimb_JansenSmith.git:MoveLimb.groovy": [
+      "https://github.com/JansenSmith/MoveLimb_JansenSmith.git",
       "MoveLimb.groovy"
-    ],
-    "https://github.com/JansenSmith/CastleDiceTower.git:STL_importer.groovy": [
-      "https://github.com/JansenSmith/CastleDiceTower.git",
-      "STL_importer.groovy"
-    ],
-    "https://github.com/JansenSmith/Luna_Parameterization.git:GeneratedServoSpline.groovy": [
-      "https://github.com/JansenSmith/Luna_Parameterization.git",
-      "GeneratedServoSpline.groovy"
-    ],
-    "https://github.com/JansenSmith/Luna_Parameterization.git:FLdlimb_test.groovy": [
-      "https://github.com/JansenSmith/Luna_Parameterization.git",
-      "FLdlimb_test.groovy"
-    ],
-    "https://github.com/JansenSmith/Luna_Parameterization.git:Luna_Parameterization.xml": [
-      "https://github.com/JansenSmith/Luna_Parameterization.git",
-      "Luna_Parameterization.xml"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
