@@ -44,10 +44,6 @@
       "https://github.com/JansenSmith/FrontRightCad_JansenSmith.git",
       "1662761506002"
     ],
-    "https://github.com/OperationSmallKat/Luna.git": [
-      "OperationSmallKat/Luna",
-      "1653155325955"
-    ],
     "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git": [
       "https://github.com/madhephaestus/Fanuc_LR_Mate_200id_7L.git",
       "1657212180015"
@@ -79,6 +75,10 @@
     "https://github.com/JansenSmith/MoveLimb_JansenSmith.git": [
       "https://github.com/JansenSmith/MoveLimb_JansenSmith.git",
       "1668126701945"
+    ],
+    "https://github.com/JansenSmith/gistGetTipLocations_JansenSmith.git": [
+      "JansenSmith/gistGetTipLocations_JansenSmith",
+      "1668127961967"
     ]
   },
   "studio-open-web": {},
@@ -94,7 +94,12 @@
     "robotGitFile": "HephaestusArmV2_Janz.xml",
     "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/JansenSmith/gistGetTipLocations_JansenSmith.git:gistGetTipLocations.groovy": [
+      "https://github.com/JansenSmith/gistGetTipLocations_JansenSmith.git",
+      "gistGetTipLocations.groovy"
+    ]
+  },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
