@@ -20,6 +20,10 @@
       "GIST: .gitignore",
       "1654373164120"
     ],
+    "https://github.com/JansenSmith/MoveLink_JansenSmith.git": [
+      "JansenSmith/MoveLink_JansenSmith",
+      "1668730733954"
+    ],
     "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
       "Halloween2020TheChild/RazerHydraHIDJava",
       "1654372278178"
@@ -64,10 +68,6 @@
       "https://github.com/JansenSmith/CastleDiceTower.git",
       "1664494181935"
     ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
-      "OperationSmallKat/SmallKat_V2",
-      "1653155329221"
-    ],
     "https://github.com/madhephaestus/crystlinematrix.git": [
       "https://github.com/madhephaestus/crystlinematrix.git",
       "1655428477575"
@@ -94,7 +94,12 @@
     "robotGitFile": "HephaestusArmV2_Janz.xml",
     "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/JansenSmith/MoveLink_JansenSmith.git:MoveLink.groovy": [
+      "https://github.com/JansenSmith/MoveLink_JansenSmith.git",
+      "MoveLink.groovy"
+    ]
+  },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
