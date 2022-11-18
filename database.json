@@ -28,6 +28,10 @@
       "https://github.com/JansenSmith/Luna_Parameterization.git",
       "1659206604078"
     ],
+    "https://github.com/JansenSmith/WalkTest_JansenSmith.git": [
+      "https://github.com/JansenSmith/WalkTest_JansenSmith.git",
+      "1668736837032"
+    ],
     "https://github.com/JansenSmith/MoveLink_JansenSmith.git": [
       "JansenSmith/MoveLink_JansenSmith",
       "1668730733954"
@@ -43,10 +47,6 @@
     "https://github.com/WPIRoboticsEngineering/Modular-Maze.git": [
       "WPIRoboticsEngineering/Modular-Maze",
       "1657396586122"
-    ],
-    "https://github.com/Halloween2020TheChild/FirmwareTheChild.git": [
-      "Halloween2020TheChild/FirmwareTheChild",
-      "1656633381424"
     ],
     "https://github.com/JansenSmith/FrontRightCad_JansenSmith.git": [
       "https://github.com/JansenSmith/FrontRightCad_JansenSmith.git",
@@ -95,13 +95,13 @@
     "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
   },
   "studio-open-git": {
-    "https://github.com/JansenSmith/MoveLink_JansenSmith.git:MoveLink.groovy": [
-      "https://github.com/JansenSmith/MoveLink_JansenSmith.git",
-      "MoveLink.groovy"
-    ],
     "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git:servoHorn.groovy": [
       "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
       "servoHorn.groovy"
+    ],
+    "https://github.com/JansenSmith/WalkTest_JansenSmith.git:WalkTest.groovy": [
+      "https://github.com/JansenSmith/WalkTest_JansenSmith.git",
+      "WalkTest.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
