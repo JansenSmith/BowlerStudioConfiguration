@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/madhephaestus/carl-the-hexapod.git": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "1668732826186"
+    ],
     "https://github.com/JansenSmith/Modular-Maze.git": [
       "JansenSmith/Modular-Maze",
       "1660419063183"
@@ -23,10 +27,6 @@
     "https://github.com/JansenSmith/MoveLink_JansenSmith.git": [
       "JansenSmith/MoveLink_JansenSmith",
       "1668730733954"
-    ],
-    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
-      "Halloween2020TheChild/RazerHydraHIDJava",
-      "1654372278178"
     ],
     "https://github.com/JansenSmith/TheCalledScript_JansenSmith.git": [
       "https://github.com/JansenSmith/TheCalledScript_JansenSmith.git",
@@ -95,9 +95,21 @@
     "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
   },
   "studio-open-git": {
-    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/MediumCad.groovy": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "Bowler/MediumCad.groovy"
+    "https://github.com/madhephaestus/carl-the-hexapod.git:ThreeDPrintCad.groovy": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "ThreeDPrintCad.groovy"
+    ],
+    "https://github.com/madhephaestus/carl-the-hexapod.git:servoAttachment.groovy": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "servoAttachment.groovy"
+    ],
+    "https://github.com/madhephaestus/carl-the-hexapod.git:LinkedCadEngine.groovy": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "LinkedCadEngine.groovy"
+    ],
+    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git:servoHorn.groovy": [
+      "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
+      "servoHorn.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
