@@ -56,10 +56,6 @@
       "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git",
       "1667523161395"
     ],
-    "https://github.com/madhephaestus/mujoco-test.git": [
-      "https://github.com/madhephaestus/mujoco-test.git",
-      "1654018774921"
-    ],
     "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git": [
       "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
       "1660421700345"
@@ -67,6 +63,10 @@
     "https://github.com/JansenSmith/CastleDiceTower.git": [
       "https://github.com/JansenSmith/CastleDiceTower.git",
       "1664494181935"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "1668730873574"
     ],
     "https://github.com/madhephaestus/crystlinematrix.git": [
       "https://github.com/madhephaestus/crystlinematrix.git",
@@ -95,9 +95,9 @@
     "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
   },
   "studio-open-git": {
-    "https://github.com/JansenSmith/MoveLink_JansenSmith.git:MoveLink.groovy": [
-      "https://github.com/JansenSmith/MoveLink_JansenSmith.git",
-      "MoveLink.groovy"
+    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/MediumCad.groovy": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "Bowler/MediumCad.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
