@@ -95,6 +95,10 @@
     "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
   },
   "studio-open-git": {
+    "https://github.com/JansenSmith/technocopiaefficiency.git:FromSunlight.groovy": [
+      "https://github.com/JansenSmith/technocopiaefficiency.git",
+      "FromSunlight.groovy"
+    ],
     "https://github.com/madhephaestus/basicincomeviatransactiontax.git:process.groovy": [
       "https://github.com/madhephaestus/basicincomeviatransactiontax.git",
       "process.groovy"
