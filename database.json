@@ -95,6 +95,10 @@
     "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
   },
   "studio-open-git": {
+    "https://github.com/madhephaestus/basicincomeviatransactiontax.git:process.groovy": [
+      "https://github.com/madhephaestus/basicincomeviatransactiontax.git",
+      "process.groovy"
+    ],
     "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git:servoHorn.groovy": [
       "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
       "servoHorn.groovy"
