@@ -44,10 +44,6 @@
       "https://github.com/JansenSmith/castledicetower.git",
       "1663892198300"
     ],
-    "https://github.com/WPIRoboticsEngineering/Modular-Maze.git": [
-      "WPIRoboticsEngineering/Modular-Maze",
-      "1657396586122"
-    ],
     "https://github.com/JansenSmith/FrontRightCad_JansenSmith.git": [
       "https://github.com/JansenSmith/FrontRightCad_JansenSmith.git",
       "1662761506002"
@@ -67,6 +63,10 @@
     "https://github.com/JansenSmith/CastleDiceTower.git": [
       "https://github.com/JansenSmith/CastleDiceTower.git",
       "1664494181935"
+    ],
+    "https://github.com/JansenSmith/41-dover.git": [
+      "JansenSmith/41-dover",
+      "1671300568047"
     ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
@@ -95,6 +95,10 @@
     "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
   },
   "studio-open-git": {
+    "https://github.com/JansenSmith/41-dover.git:SecondFloor.SVG": [
+      "https://github.com/JansenSmith/41-dover.git",
+      "SecondFloor.SVG"
+    ],
     "https://github.com/JansenSmith/technocopiaefficiency.git:FromSunlight.groovy": [
       "https://github.com/JansenSmith/technocopiaefficiency.git",
       "FromSunlight.groovy"
