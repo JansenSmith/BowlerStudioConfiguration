@@ -83,14 +83,6 @@
     "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
   },
   "studio-open-git": {
-    "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git:JansenWalker_SeriesParallelHybrid.xml": [
-      "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
-      "JansenWalker_SeriesParallelHybrid.xml"
-    ],
-    "https://github.com/JansenSmith/41-dover.git:SecondFloor.SVG": [
-      "https://github.com/JansenSmith/41-dover.git",
-      "SecondFloor.SVG"
-    ],
     "https://github.com/madhephaestus/potbot.git:robotBase.groovy": [
       "https://github.com/madhephaestus/potbot.git",
       "robotBase.groovy"
@@ -102,14 +94,6 @@
     "https://github.com/madhephaestus/basicincomeviatransactiontax.git:process.groovy": [
       "https://github.com/madhephaestus/basicincomeviatransactiontax.git",
       "process.groovy"
-    ],
-    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git:servoHorn.groovy": [
-      "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
-      "servoHorn.groovy"
-    ],
-    "https://github.com/JansenSmith/WalkTest_JansenSmith.git:WalkTest.groovy": [
-      "https://github.com/JansenSmith/WalkTest_JansenSmith.git",
-      "WalkTest.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
