@@ -16,6 +16,10 @@
       "Halloween2022RodPuppet/RodPuppetKinematics",
       "1665946521128"
     ],
+    "https://github.com/JansenSmith/HonkyHorn_JansenSmith.git": [
+      "https://github.com/JansenSmith/HonkyHorn_JansenSmith.git",
+      "1674668532274"
+    ],
     "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git": [
       "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
       "1668732828100"
@@ -91,6 +95,10 @@
       "https://github.com/JansenSmith/41-dover.git",
       "SecondFloor.SVG"
     ],
+    "https://github.com/JansenSmith/HonkyHorn_JansenSmith.git:HonkyHorn.groovy": [
+      "https://github.com/JansenSmith/HonkyHorn_JansenSmith.git",
+      "HonkyHorn.groovy"
+    ],
     "https://github.com/JansenSmith/technocopiaefficiency.git:FromSunlight.groovy": [
       "https://github.com/JansenSmith/technocopiaefficiency.git",
       "FromSunlight.groovy"
@@ -102,10 +110,6 @@
     "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git:servoHorn.groovy": [
       "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
       "servoHorn.groovy"
-    ],
-    "https://github.com/JansenSmith/WalkTest_JansenSmith.git:WalkTest.groovy": [
-      "https://github.com/JansenSmith/WalkTest_JansenSmith.git",
-      "WalkTest.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
