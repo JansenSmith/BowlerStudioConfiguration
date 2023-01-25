@@ -8,10 +8,6 @@
       "JansenSmith/Modular-Maze",
       "1660419063183"
     ],
-    "https://github.com/madhephaestus/potbot.git": [
-      "https://github.com/madhephaestus/potbot.git",
-      "1674669505228"
-    ],
     "https://gist.github.com/fb4cf429372deeb36f52.git": [
       "https://gist.github.com/fb4cf429372deeb36f52.git",
       "1668732828973"
@@ -102,10 +98,6 @@
     "https://github.com/JansenSmith/HonkyHorn_JansenSmith.git:HonkyHorn.groovy": [
       "https://github.com/JansenSmith/HonkyHorn_JansenSmith.git",
       "HonkyHorn.groovy"
-    ],
-    "https://github.com/madhephaestus/potbot.git:robotBase.groovy": [
-      "https://github.com/madhephaestus/potbot.git",
-      "robotBase.groovy"
     ],
     "https://github.com/JansenSmith/technocopiaefficiency.git:FromSunlight.groovy": [
       "https://github.com/JansenSmith/technocopiaefficiency.git",
