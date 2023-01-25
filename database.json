@@ -8,10 +8,6 @@
       "JansenSmith/Modular-Maze",
       "1660419063183"
     ],
-    "https://github.com/madhephaestus/potbot.git": [
-      "madhephaestus/potbot",
-      "1673547357151"
-    ],
     "https://gist.github.com/fb4cf429372deeb36f52.git": [
       "https://gist.github.com/fb4cf429372deeb36f52.git",
       "1668732828973"
@@ -24,6 +20,10 @@
       "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
       "1668732828100"
     ],
+    "https://github.com/JansenSmith/Luna_Parameterization.git": [
+      "https://github.com/JansenSmith/Luna_Parameterization.git",
+      "1659206604078"
+    ],
     "https://github.com/JansenSmith/technocopiaefficiency.git": [
       "JansenSmith/technocopiaefficiency",
       "1670698480763"
@@ -32,13 +32,17 @@
       "https://github.com/JansenSmith/WalkTest_JansenSmith.git",
       "1668736837032"
     ],
-    "https://github.com/JansenSmith/castledicetower.git": [
-      "https://github.com/JansenSmith/castledicetower.git",
-      "1663892198300"
+    "https://github.com/JansenSmith/MoveLink_JansenSmith.git": [
+      "JansenSmith/MoveLink_JansenSmith",
+      "1668730733954"
     ],
     "https://github.com/JansenSmith/TheCalledScript_JansenSmith.git": [
       "https://github.com/JansenSmith/TheCalledScript_JansenSmith.git",
       "1659213442912"
+    ],
+    "https://github.com/JansenSmith/castledicetower.git": [
+      "https://github.com/JansenSmith/castledicetower.git",
+      "1663892198300"
     ],
     "https://github.com/JansenSmith/FrontRightCad_JansenSmith.git": [
       "https://github.com/JansenSmith/FrontRightCad_JansenSmith.git",
@@ -67,6 +71,14 @@
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
       "1668730873574"
+    ],
+    "https://github.com/JansenSmith/MoveLimb_JansenSmith.git": [
+      "https://github.com/JansenSmith/MoveLimb_JansenSmith.git",
+      "1668126701945"
+    ],
+    "https://github.com/JansenSmith/gistGetTipLocations_JansenSmith.git": [
+      "JansenSmith/gistGetTipLocations_JansenSmith",
+      "1668127961967"
     ]
   },
   "studio-open-web": {},
@@ -83,9 +95,9 @@
     "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
   },
   "studio-open-git": {
-    "https://github.com/madhephaestus/potbot.git:robotBase.groovy": [
-      "https://github.com/madhephaestus/potbot.git",
-      "robotBase.groovy"
+    "https://github.com/JansenSmith/41-dover.git:SecondFloor.SVG": [
+      "https://github.com/JansenSmith/41-dover.git",
+      "SecondFloor.SVG"
     ],
     "https://github.com/JansenSmith/technocopiaefficiency.git:FromSunlight.groovy": [
       "https://github.com/JansenSmith/technocopiaefficiency.git",
@@ -94,6 +106,14 @@
     "https://github.com/madhephaestus/basicincomeviatransactiontax.git:process.groovy": [
       "https://github.com/madhephaestus/basicincomeviatransactiontax.git",
       "process.groovy"
+    ],
+    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git:servoHorn.groovy": [
+      "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
+      "servoHorn.groovy"
+    ],
+    "https://github.com/JansenSmith/WalkTest_JansenSmith.git:WalkTest.groovy": [
+      "https://github.com/JansenSmith/WalkTest_JansenSmith.git",
+      "WalkTest.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
@@ -116,7 +136,7 @@
     "firstVersion": "1.30.0",
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 32.0,
+    "fontsize": 16.0,
     "skinBranch": "1.45.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true,
