@@ -52,10 +52,6 @@
       "https://github.com/JansenSmith/FrontRightCad_JansenSmith.git",
       "1662761506002"
     ],
-    "https://github.com/JansenSmith/TextToSpeech_JansenSmith.git": [
-      "https://github.com/JansenSmith/TextToSpeech_JansenSmith.git",
-      "1674705194518"
-    ],
     "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git": [
       "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git",
       "1667523161395"
@@ -81,6 +77,7 @@
       "1668730873574"
     ]
   },
+  "studio-open-web": {},
   "katapult": {
     "gameControllerNames": [
       "Play",
@@ -110,10 +107,6 @@
       "https://github.com/madhephaestus/basicincomeviatransactiontax.git",
       "process.groovy"
     ],
-    "https://github.com/JansenSmith/TextToSpeech_JansenSmith.git:TextToSpeech.groovy": [
-      "https://github.com/JansenSmith/TextToSpeech_JansenSmith.git",
-      "TextToSpeech.groovy"
-    ],
     "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git:servoHorn.groovy": [
       "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
       "servoHorn.groovy"
@@ -139,7 +132,7 @@
     "firstVersion": "1.30.0",
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 16.0,
+    "fontsize": 32,
     "skinBranch": "1.45.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true,
