@@ -52,6 +52,10 @@
       "https://github.com/JansenSmith/FrontRightCad_JansenSmith.git",
       "1662761506002"
     ],
+    "https://github.com/JansenSmith/TextToSpeech_JansenSmith.git": [
+      "https://github.com/JansenSmith/TextToSpeech_JansenSmith.git",
+      "1674705194518"
+    ],
     "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git": [
       "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git",
       "1667523161395"
@@ -105,6 +109,10 @@
     "https://github.com/madhephaestus/basicincomeviatransactiontax.git:process.groovy": [
       "https://github.com/madhephaestus/basicincomeviatransactiontax.git",
       "process.groovy"
+    ],
+    "https://github.com/JansenSmith/TextToSpeech_JansenSmith.git:TextToSpeech.groovy": [
+      "https://github.com/JansenSmith/TextToSpeech_JansenSmith.git",
+      "TextToSpeech.groovy"
     ],
     "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git:servoHorn.groovy": [
       "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
