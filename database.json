@@ -100,6 +100,10 @@
       "https://github.com/JansenSmith/union_JansenSmith.git",
       "union.groovy"
     ],
+    "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:TendyTheTankEngine.xml": [
+      "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
+      "TendyTheTankEngine.xml"
+    ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:robotBase.groovy": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "robotBase.groovy"
