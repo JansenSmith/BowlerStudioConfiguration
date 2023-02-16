@@ -1,12 +1,17 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git": [
+      "TechnocopiaPlant/TendyTheTankEngine",
+      "1676576220357"
+    ]
+  },
   "studio-open-web": {},
   "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12,
+    "fontsize": 12.0,
     "skinBranch": "1.74.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
