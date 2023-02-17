@@ -1,6 +1,10 @@
 {
   "Standard PS/2 Keyboard": {},
   "workspace": {
+    "": [
+      "Project ",
+      "1676602029105"
+    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "https://github.com/madhephaestus/carl-the-hexapod.git",
       "1668732826186"
@@ -64,10 +68,6 @@
     "https://github.com/madhephaestus/basicincomeviatransactiontax.git": [
       "madhephaestus/basicincomeviatransactiontax",
       "1670698278731"
-    ],
-    "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git": [
-      "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
-      "1660421700345"
     ],
     "https://github.com/JansenSmith/CastleDiceTower.git": [
       "https://github.com/JansenSmith/CastleDiceTower.git",
