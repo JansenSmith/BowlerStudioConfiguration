@@ -73,6 +73,10 @@
       "JansenSmith/41-dover",
       "1671300568047"
     ],
+    "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git": [
+      "https://github.com/JansenSmith/JansenWalker_SeriesParallelHybrid.git",
+      "1660421700345"
+    ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
       "1668730873574"
@@ -96,6 +100,10 @@
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "TendyTheTankEngine.xml"
     ],
+    "https://github.com/JansenSmith/union_JansenSmith.git:union.groovy": [
+      "https://github.com/JansenSmith/union_JansenSmith.git",
+      "union.groovy"
+    ],
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:TendyTheTankEngineCad.groovy": [
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "TendyTheTankEngineCad.groovy"
@@ -107,6 +115,10 @@
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:Path.groovy": [
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "Path.groovy"
+    ],
+    "https://github.com/JansenSmith/technocopiaefficiency.git:FromSunlight.groovy": [
+      "https://github.com/JansenSmith/technocopiaefficiency.git",
+      "FromSunlight.groovy"
     ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
