@@ -9,6 +9,10 @@
       "TechnocopiaPlant/TendyTheTankEngine",
       "1676498520766"
     ],
+    "https://github.com/JansenSmith/JanKalMealVoucher.git": [
+      "JansenSmith/JanKalMealVoucher",
+      "1677437049251"
+    ],
     "https://gist.github.com/fb4cf429372deeb36f52.git": [
       "https://gist.github.com/fb4cf429372deeb36f52.git",
       "1668732828973"
@@ -96,6 +100,10 @@
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "TendyTheTankEngine.xml"
     ],
+    "https://github.com/JansenSmith/union_JansenSmith.git:union.groovy": [
+      "https://github.com/JansenSmith/union_JansenSmith.git",
+      "union.groovy"
+    ],
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:TendyTheTankEngineCad.groovy": [
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "TendyTheTankEngineCad.groovy"
@@ -108,9 +116,17 @@
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "Path.groovy"
     ],
+    "https://github.com/JansenSmith/technocopiaefficiency.git:FromSunlight.groovy": [
+      "https://github.com/JansenSmith/technocopiaefficiency.git",
+      "FromSunlight.groovy"
+    ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLift.xml"
+    ],
+    "https://github.com/JansenSmith/JanKalMealVoucher.git:JanKal_MealVoucher.svg": [
+      "https://github.com/JansenSmith/JanKalMealVoucher.git",
+      "JanKal_MealVoucher.svg"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
@@ -133,7 +149,7 @@
     "firstVersion": "1.30.0",
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 18.0,
+    "fontsize": 32.0,
     "skinBranch": "1.45.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true,
