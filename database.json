@@ -116,6 +116,10 @@
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLift.xml"
     ],
+    "https://github.com/JansenSmith/JanKalMealVoucher.git:JanKal_MealVoucher.groovy": [
+      "https://github.com/JansenSmith/JanKalMealVoucher.git",
+      "JanKal_MealVoucher.groovy"
+    ],
     "https://github.com/JansenSmith/JanKalMealVoucher.git:JanKal_MealVoucher.svg": [
       "https://github.com/JansenSmith/JanKalMealVoucher.git",
       "JanKal_MealVoucher.svg"
