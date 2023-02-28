@@ -69,13 +69,13 @@
       "madhephaestus/basicincomeviatransactiontax",
       "1670698278731"
     ],
-    "https://github.com/JansenSmith/CastleDiceTower.git": [
-      "https://github.com/JansenSmith/CastleDiceTower.git",
-      "1664494181935"
-    ],
     "https://github.com/JansenSmith/41-dover.git": [
       "JansenSmith/41-dover",
       "1671300568047"
+    ],
+    "https://gist.github.com/21c02fc054a1a279cb16c9a6ae5a603a.git": [
+      "https://gist.github.com/21c02fc054a1a279cb16c9a6ae5a603a.git",
+      "1677623898764"
     ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
@@ -104,6 +104,10 @@
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "TendyTheTankEngineCad.groovy"
     ],
+    "https://gist.github.com/21c02fc054a1a279cb16c9a6ae5a603a.git:measurement.groovy": [
+      "https://gist.github.com/21c02fc054a1a279cb16c9a6ae5a603a.git",
+      "measurement.groovy"
+    ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:robotBase.groovy": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "robotBase.groovy"
@@ -111,10 +115,6 @@
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:Path.groovy": [
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "Path.groovy"
-    ],
-    "https://gist.github.com/2374524a0882601de95fc16e47dfd9e9.git:filletASlice.groovy": [
-      "https://gist.github.com/2374524a0882601de95fc16e47dfd9e9.git",
-      "filletASlice.groovy"
     ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
