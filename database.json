@@ -45,10 +45,6 @@
       "madhephaestus/HonkyHorn",
       "1674665511430"
     ],
-    "https://github.com/JansenSmith/castledicetower.git": [
-      "https://github.com/JansenSmith/castledicetower.git",
-      "1663892198300"
-    ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
       "TechnocopiaPlant/ForkyRobot",
       "1674945304820"
@@ -56,6 +52,10 @@
     "https://github.com/JansenSmith/union_JansenSmith.git": [
       "https://github.com/JansenSmith/union_JansenSmith.git",
       "1675621004495"
+    ],
+    "https://gist.github.com/2374524a0882601de95fc16e47dfd9e9.git": [
+      "https://gist.github.com/2374524a0882601de95fc16e47dfd9e9.git",
+      "1677620371183"
     ],
     "https://github.com/JansenSmith/TextToSpeech_JansenSmith.git": [
       "https://github.com/JansenSmith/TextToSpeech_JansenSmith.git",
@@ -111,6 +111,10 @@
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:Path.groovy": [
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "Path.groovy"
+    ],
+    "https://gist.github.com/2374524a0882601de95fc16e47dfd9e9.git:filletASlice.groovy": [
+      "https://gist.github.com/2374524a0882601de95fc16e47dfd9e9.git",
+      "filletASlice.groovy"
     ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
