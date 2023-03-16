@@ -20,6 +20,10 @@
       "https://github.com/JansenSmith/HonkyHorn_JansenSmith.git",
       "1674668532274"
     ],
+    "https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git": [
+      "Halloween2022RodPuppet/RodPuppetKinematics",
+      "1665946521128"
+    ],
     "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git": [
       "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
       "1668732828100"
@@ -94,17 +98,25 @@
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "TendyTheTankEngine.xml"
     ],
+    "https://github.com/JansenSmith/union_JansenSmith.git:union.groovy": [
+      "https://github.com/JansenSmith/union_JansenSmith.git",
+      "union.groovy"
+    ],
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:TendyTheTankEngineCad.groovy": [
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "TendyTheTankEngineCad.groovy"
     ],
-    "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLiftCad.groovy": [
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git:robotBase.groovy": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
-      "ForkyLiftCad.groovy"
+      "robotBase.groovy"
     ],
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:Path.groovy": [
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "Path.groovy"
+    ],
+    "https://github.com/JansenSmith/technocopiaefficiency.git:FromSunlight.groovy": [
+      "https://github.com/JansenSmith/technocopiaefficiency.git",
+      "FromSunlight.groovy"
     ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
