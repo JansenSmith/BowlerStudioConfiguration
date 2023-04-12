@@ -111,6 +111,10 @@
       "https://github.com/JansenSmith/TendyTheTankEngineCad_JansenSmith.git",
       "TendyTheTankEngineCad.groovy"
     ],
+    "https://github.com/JansenSmith/TendyTheTankEngineCad_JansenSmith.git:TendyTheTankEngine.xml": [
+      "https://github.com/JansenSmith/TendyTheTankEngineCad_JansenSmith.git",
+      "TendyTheTankEngine.xml"
+    ],
     "https://github.com/JansenSmith/JanKalMealVoucher.git:JanKal_MealVoucher.groovy": [
       "https://github.com/JansenSmith/JanKalMealVoucher.git",
       "JanKal_MealVoucher.groovy"
