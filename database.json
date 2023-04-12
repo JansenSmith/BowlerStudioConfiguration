@@ -115,10 +115,6 @@
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLift.xml"
     ],
-    "https://github.com/JansenSmith/TendyTheTankEngineCad_JansenSmith.git:TendyTheTankEngineCad.groovy": [
-      "https://github.com/JansenSmith/TendyTheTankEngineCad_JansenSmith.git",
-      "TendyTheTankEngineCad.groovy"
-    ],
     "https://github.com/JansenSmith/JanKalMealVoucher.git:JanKal_MealVoucher.groovy": [
       "https://github.com/JansenSmith/JanKalMealVoucher.git",
       "JanKal_MealVoucher.groovy"
