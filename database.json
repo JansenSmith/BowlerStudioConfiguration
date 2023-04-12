@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "": [
+      "Project ",
+      "1681336054119"
+    ],
     "https://github.com/madhephaestus/carl-the-hexapod.git": [
       "https://github.com/madhephaestus/carl-the-hexapod.git",
       "1668732826186"
@@ -59,10 +63,6 @@
     "https://github.com/JansenSmith/TextToSpeech_JansenSmith.git": [
       "https://github.com/JansenSmith/TextToSpeech_JansenSmith.git",
       "1674705194518"
-    ],
-    "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git": [
-      "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git",
-      "1667523161395"
     ],
     "https://github.com/madhephaestus/basicincomeviatransactiontax.git": [
       "madhephaestus/basicincomeviatransactiontax",
