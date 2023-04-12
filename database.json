@@ -4,6 +4,10 @@
       "https://github.com/madhephaestus/carl-the-hexapod.git",
       "1668732826186"
     ],
+    "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git": [
+      "TechnocopiaPlant/TendyTheTankEngine",
+      "1681335761507"
+    ],
     "https://github.com/JansenSmith/JanKalMealVoucher.git": [
       "JansenSmith/JanKalMealVoucher",
       "1677450431224"
@@ -110,10 +114,6 @@
     "https://github.com/JansenSmith/TendyTheTankEngineCad_JansenSmith.git:TendyTheTankEngineCad.groovy": [
       "https://github.com/JansenSmith/TendyTheTankEngineCad_JansenSmith.git",
       "TendyTheTankEngineCad.groovy"
-    ],
-    "https://github.com/JansenSmith/TendyTheTankEngineCad_JansenSmith.git:TendyTheTankEngine.xml": [
-      "https://github.com/JansenSmith/TendyTheTankEngineCad_JansenSmith.git",
-      "TendyTheTankEngine.xml"
     ],
     "https://github.com/JansenSmith/JanKalMealVoucher.git:JanKal_MealVoucher.groovy": [
       "https://github.com/JansenSmith/JanKalMealVoucher.git",
