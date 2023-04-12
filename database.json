@@ -95,6 +95,14 @@
     "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
   },
   "studio-open-git": {
+    "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:TendyTheTankEngine.xml": [
+      "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
+      "TendyTheTankEngine.xml"
+    ],
+    "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:TendyTheTankEngineCad.groovy": [
+      "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
+      "TendyTheTankEngineCad.groovy"
+    ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:robotBase.groovy": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "robotBase.groovy"
