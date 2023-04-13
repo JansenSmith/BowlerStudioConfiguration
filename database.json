@@ -87,7 +87,7 @@
     "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
   },
   "MenueSettings": {
-    "printCSG": true
+    "printCSG": false
   },
   "studio-open-git": {
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:TendyTheTankEngine.xml": [
