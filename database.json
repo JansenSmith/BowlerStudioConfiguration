@@ -90,6 +90,9 @@
     "robotGitFile": "HephaestusArmV2_Janz.xml",
     "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
   },
+  "MenueSettings": {
+    "printCSG": true
+  },
   "studio-open-git": {
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:TendyTheTankEngine.xml": [
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
