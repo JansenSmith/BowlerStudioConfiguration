@@ -40,6 +40,10 @@
       "madhephaestus/HonkyHorn",
       "1674665511430"
     ],
+    "https://github.com/JansenSmith/cube_JansenSmith.git": [
+      "JansenSmith/cube_JansenSmith",
+      "1681586972564"
+    ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "1678222174225"
@@ -75,10 +79,6 @@
     "https://github.com/JansenSmith/helloWorld_JansenSmith.git": [
       "JansenSmith/helloWorld_JansenSmith",
       "1681586274222"
-    ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "1668730873574"
     ]
   },
   "studio-open-web": {},
@@ -106,25 +106,17 @@
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "TendyTheTankEngineCad.groovy"
     ],
-    "https://github.com/TechnocopiaPlant/ForkyRobot.git:robotBase.groovy": [
-      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
-      "robotBase.groovy"
-    ],
-    "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLiftCad.groovy": [
-      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
-      "ForkyLiftCad.groovy"
-    ],
     "https://github.com/JansenSmith/technocopiaefficiency.git:FromSunlight.groovy": [
       "https://github.com/JansenSmith/technocopiaefficiency.git",
       "FromSunlight.groovy"
     ],
-    "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
-      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
-      "ForkyLift.xml"
-    ],
     "https://github.com/JansenSmith/helloWorld_JansenSmith.git:helloWorld.groovy": [
       "https://github.com/JansenSmith/helloWorld_JansenSmith.git",
       "helloWorld.groovy"
+    ],
+    "https://github.com/JansenSmith/cube_JansenSmith.git:cube.groovy": [
+      "https://github.com/JansenSmith/cube_JansenSmith.git",
+      "cube.groovy"
     ],
     "https://github.com/JansenSmith/JanKalMealVoucher.git:JanKal_MealVoucher.groovy": [
       "https://github.com/JansenSmith/JanKalMealVoucher.git",
@@ -133,10 +125,6 @@
     "https://github.com/JansenSmith/JanKalMealVoucher.git:JanKal_MealVoucher.svg": [
       "https://github.com/JansenSmith/JanKalMealVoucher.git",
       "JanKal_MealVoucher.svg"
-    ],
-    "https://github.com/madhephaestus/HonkyHorn.git:HonkyHorn.groovy": [
-      "https://github.com/madhephaestus/HonkyHorn.git",
-      "HonkyHorn.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
