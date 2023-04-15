@@ -72,6 +72,10 @@
       "https://gist.github.com/21c02fc054a1a279cb16c9a6ae5a603a.git",
       "1677623898764"
     ],
+    "https://github.com/JansenSmith/helloWorld_JansenSmith.git": [
+      "JansenSmith/helloWorld_JansenSmith",
+      "1681586274222"
+    ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
       "1668730873574"
@@ -117,6 +121,10 @@
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLift.xml"
+    ],
+    "https://github.com/JansenSmith/helloWorld_JansenSmith.git:helloWorld.groovy": [
+      "https://github.com/JansenSmith/helloWorld_JansenSmith.git",
+      "helloWorld.groovy"
     ],
     "https://github.com/JansenSmith/JanKalMealVoucher.git:JanKal_MealVoucher.groovy": [
       "https://github.com/JansenSmith/JanKalMealVoucher.git",
