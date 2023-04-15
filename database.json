@@ -16,10 +16,6 @@
       "https://github.com/JansenSmith/HonkyHorn_JansenSmith.git",
       "1674668532274"
     ],
-    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git": [
-      "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
-      "1668732828100"
-    ],
     "https://github.com/JansenSmith/technocopiaefficiency.git": [
       "JansenSmith/technocopiaefficiency",
       "1670698480763"
@@ -79,6 +75,10 @@
     "https://github.com/JansenSmith/helloWorld_JansenSmith.git": [
       "JansenSmith/helloWorld_JansenSmith",
       "1681586274222"
+    ],
+    "https://github.com/JansenSmith/ChamferedParts_JansenSmith.git": [
+      "https://github.com/JansenSmith/ChamferedParts_JansenSmith.git",
+      "1681587366643"
     ]
   },
   "studio-open-web": {},
@@ -106,9 +106,9 @@
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "TendyTheTankEngineCad.groovy"
     ],
-    "https://github.com/JansenSmith/roundedcube_JansenSmith.git:roundedcube.groovy": [
-      "https://github.com/JansenSmith/roundedcube_JansenSmith.git",
-      "roundedcube.groovy"
+    "https://github.com/JansenSmith/ChamferedParts_JansenSmith.git:ChamferedParts.groovy": [
+      "https://github.com/JansenSmith/ChamferedParts_JansenSmith.git",
+      "ChamferedParts.groovy"
     ],
     "https://github.com/JansenSmith/technocopiaefficiency.git:FromSunlight.groovy": [
       "https://github.com/JansenSmith/technocopiaefficiency.git",
