@@ -8,6 +8,10 @@
       "JansenSmith/JanKalMealVoucher",
       "1677450431224"
     ],
+    "https://github.com/JansenSmith/sphere_JansenSmith.git": [
+      "JansenSmith/sphere_JansenSmith",
+      "1681590227574"
+    ],
     "https://github.com/JansenSmith/HonkyHorn_JansenSmith.git": [
       "https://github.com/JansenSmith/HonkyHorn_JansenSmith.git",
       "1674668532274"
@@ -113,6 +117,10 @@
     "https://github.com/JansenSmith/technocopiaefficiency.git:FromSunlight.groovy": [
       "https://github.com/JansenSmith/technocopiaefficiency.git",
       "FromSunlight.groovy"
+    ],
+    "https://github.com/JansenSmith/sphere_JansenSmith.git:sphere.groovy": [
+      "https://github.com/JansenSmith/sphere_JansenSmith.git",
+      "sphere.groovy"
     ],
     "https://github.com/JansenSmith/JanKalMealVoucher.git:JanKal_MealVoucher.groovy": [
       "https://github.com/JansenSmith/JanKalMealVoucher.git",
