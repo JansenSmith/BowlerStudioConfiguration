@@ -56,6 +56,10 @@
       "https://github.com/JansenSmith/TextToSpeech_JansenSmith.git",
       "1674705194518"
     ],
+    "https://github.com/JansenSmith/pythonTest_JansenSmith.git": [
+      "https://github.com/JansenSmith/pythonTest_JansenSmith.git",
+      "1681586235941"
+    ],
     "https://github.com/madhephaestus/basicincomeviatransactiontax.git": [
       "madhephaestus/basicincomeviatransactiontax",
       "1670698278731"
@@ -93,10 +97,6 @@
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:TendyTheTankEngine.xml": [
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "TendyTheTankEngine.xml"
-    ],
-    "https://github.com/JansenSmith/pythonTest_JansenSmith.git:pythonTest.py": [
-      "https://github.com/JansenSmith/pythonTest_JansenSmith.git",
-      "pythonTest.py"
     ],
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:TendyTheTankEngineCad.groovy": [
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
