@@ -8,9 +8,9 @@
       "JansenSmith/JanKalMealVoucher",
       "1677450431224"
     ],
-    "https://gist.github.com/fb4cf429372deeb36f52.git": [
-      "https://gist.github.com/fb4cf429372deeb36f52.git",
-      "1668732828973"
+    "https://github.com/JansenSmith/sphere_JansenSmith.git": [
+      "JansenSmith/sphere_JansenSmith",
+      "1681589694427"
     ],
     "https://github.com/JansenSmith/HonkyHorn_JansenSmith.git": [
       "https://github.com/JansenSmith/HonkyHorn_JansenSmith.git",
@@ -95,7 +95,7 @@
     "robotGit": "https://github.com/JansenSmith/HephaestusArmV2_Janz.git"
   },
   "MenueSettings": {
-    "printCSG": false
+    "printCSG": true
   },
   "studio-open-git": {
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:TendyTheTankEngine.xml": [
@@ -110,9 +110,17 @@
       "https://github.com/JansenSmith/ChamferedParts_JansenSmith.git",
       "ChamferedParts.groovy"
     ],
+    "https://github.com/JansenSmith/roundedcube_JansenSmith.git:roundedcube.groovy": [
+      "https://github.com/JansenSmith/roundedcube_JansenSmith.git",
+      "roundedcube.groovy"
+    ],
     "https://github.com/JansenSmith/technocopiaefficiency.git:FromSunlight.groovy": [
       "https://github.com/JansenSmith/technocopiaefficiency.git",
       "FromSunlight.groovy"
+    ],
+    "https://github.com/JansenSmith/sphere_JansenSmith.git:sphere.groovy": [
+      "https://github.com/JansenSmith/sphere_JansenSmith.git",
+      "sphere.groovy"
     ],
     "https://github.com/JansenSmith/JanKalMealVoucher.git:JanKal_MealVoucher.groovy": [
       "https://github.com/JansenSmith/JanKalMealVoucher.git",
