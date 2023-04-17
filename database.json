@@ -32,6 +32,10 @@
       "madhephaestus/HonkyHorn",
       "1674665511430"
     ],
+    "https://github.com/JansenSmith/RoundedCylinderTest_JansenSmith.git": [
+      "https://github.com/JansenSmith/RoundedCylinderTest_JansenSmith.git",
+      "1681764346840"
+    ],
     "https://github.com/JansenSmith/cube_JansenSmith.git": [
       "JansenSmith/cube_JansenSmith",
       "1681586972564"
@@ -122,9 +126,9 @@
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLift.xml"
     ],
-    "https://github.com/JansenSmith/sphere_JansenSmith.git:sphere.groovy": [
-      "https://github.com/JansenSmith/sphere_JansenSmith.git",
-      "sphere.groovy"
+    "https://github.com/JansenSmith/RoundedCylinderTest_JansenSmith.git:RoundedCylinderTest.groovy": [
+      "https://github.com/JansenSmith/RoundedCylinderTest_JansenSmith.git",
+      "RoundedCylinderTest.groovy"
     ],
     "https://github.com/JansenSmith/JanKalMealVoucher.git:JanKal_MealVoucher.groovy": [
       "https://github.com/JansenSmith/JanKalMealVoucher.git",
@@ -159,7 +163,7 @@
     "firstVersion": "1.30.0",
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 18.0,
+    "fontsize": 36,
     "skinBranch": "1.45.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true,
