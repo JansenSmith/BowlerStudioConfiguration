@@ -126,10 +126,6 @@
       "https://github.com/JansenSmith/union_JansenSmith.git",
       "union.groovy"
     ],
-    "https://github.com/JansenSmith/ChamferedParts_JansenSmith.git:ChamferedParts.groovy": [
-      "https://github.com/JansenSmith/ChamferedParts_JansenSmith.git",
-      "ChamferedParts.groovy"
-    ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:robotBase.groovy": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "robotBase.groovy"
@@ -137,10 +133,6 @@
     "https://github.com/JansenSmith/roundedcube_JansenSmith.git:roundedcube.groovy": [
       "https://github.com/JansenSmith/roundedcube_JansenSmith.git",
       "roundedcube.groovy"
-    ],
-    "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:Path.groovy": [
-      "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
-      "Path.groovy"
     ],
     "https://github.com/JansenSmith/JanKalMealVoucher.git:JanKal_MealVoucher.svg": [
       "https://github.com/JansenSmith/JanKalMealVoucher.git",
