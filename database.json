@@ -14,7 +14,7 @@
     ],
     "https://github.com/JansenSmith/cylinder_JansenSmith.git": [
       "https://github.com/JansenSmith/cylinder_JansenSmith.git",
-      "1681764484088"
+      "1681936197958"
     ],
     "https://github.com/JansenSmith/HonkyHorn_JansenSmith.git": [
       "https://github.com/JansenSmith/HonkyHorn_JansenSmith.git",
@@ -32,10 +32,6 @@
       "madhephaestus/HonkyHorn",
       "1674665511430"
     ],
-    "https://github.com/JansenSmith/RoundedCylinderTest_JansenSmith.git": [
-      "https://github.com/JansenSmith/RoundedCylinderTest_JansenSmith.git",
-      "1681764346840"
-    ],
     "https://github.com/JansenSmith/cube_JansenSmith.git": [
       "JansenSmith/cube_JansenSmith",
       "1681586972564"
@@ -44,13 +40,13 @@
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "1678222174225"
     ],
-    "https://gist.github.com/2374524a0882601de95fc16e47dfd9e9.git": [
-      "https://gist.github.com/2374524a0882601de95fc16e47dfd9e9.git",
-      "1677620371183"
-    ],
     "https://github.com/JansenSmith/union_JansenSmith.git": [
       "https://github.com/JansenSmith/union_JansenSmith.git",
       "1675621004495"
+    ],
+    "https://gist.github.com/2374524a0882601de95fc16e47dfd9e9.git": [
+      "https://gist.github.com/2374524a0882601de95fc16e47dfd9e9.git",
+      "1677620371183"
     ],
     "https://github.com/JansenSmith/roundedcube_JansenSmith.git": [
       "https://github.com/JansenSmith/roundedcube_JansenSmith.git",
@@ -60,9 +56,17 @@
       "https://github.com/JansenSmith/TextToSpeech_JansenSmith.git",
       "1674705194518"
     ],
+    "https://github.com/JansenSmith/pythonTest_JansenSmith.git": [
+      "https://github.com/JansenSmith/pythonTest_JansenSmith.git",
+      "1681586235941"
+    ],
     "https://github.com/madhephaestus/basicincomeviatransactiontax.git": [
       "madhephaestus/basicincomeviatransactiontax",
       "1670698278731"
+    ],
+    "https://github.com/JansenSmith/41-dover.git": [
+      "JansenSmith/41-dover",
+      "1671300568047"
     ],
     "https://gist.github.com/21c02fc054a1a279cb16c9a6ae5a603a.git": [
       "https://gist.github.com/21c02fc054a1a279cb16c9a6ae5a603a.git",
@@ -71,10 +75,6 @@
     "https://github.com/JansenSmith/helloWorld_JansenSmith.git": [
       "JansenSmith/helloWorld_JansenSmith",
       "1681586274222"
-    ],
-    "https://github.com/JansenSmith/41-dover.git": [
-      "JansenSmith/41-dover",
-      "1671300568047"
     ],
     "https://github.com/JansenSmith/ChamferedParts_JansenSmith.git": [
       "https://github.com/JansenSmith/ChamferedParts_JansenSmith.git",
@@ -102,21 +102,17 @@
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "TendyTheTankEngine.xml"
     ],
-    "https://github.com/JansenSmith/union_JansenSmith.git:union.groovy": [
-      "https://github.com/JansenSmith/union_JansenSmith.git",
-      "union.groovy"
-    ],
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:TendyTheTankEngineCad.groovy": [
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "TendyTheTankEngineCad.groovy"
     ],
+    "https://github.com/JansenSmith/ChamferedParts_JansenSmith.git:ChamferedParts.groovy": [
+      "https://github.com/JansenSmith/ChamferedParts_JansenSmith.git",
+      "ChamferedParts.groovy"
+    ],
     "https://github.com/JansenSmith/cylinder_JansenSmith.git:cylinder.groovy": [
       "https://github.com/JansenSmith/cylinder_JansenSmith.git",
       "cylinder.groovy"
-    ],
-    "https://github.com/TechnocopiaPlant/ForkyRobot.git:robotBase.groovy": [
-      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
-      "robotBase.groovy"
     ],
     "https://github.com/JansenSmith/roundedcube_JansenSmith.git:roundedcube.groovy": [
       "https://github.com/JansenSmith/roundedcube_JansenSmith.git",
@@ -126,17 +122,17 @@
       "https://github.com/JansenSmith/technocopiaefficiency.git",
       "FromSunlight.groovy"
     ],
-    "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
-      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
-      "ForkyLift.xml"
-    ],
-    "https://github.com/JansenSmith/RoundedCylinderTest_JansenSmith.git:RoundedCylinderTest.groovy": [
-      "https://github.com/JansenSmith/RoundedCylinderTest_JansenSmith.git",
-      "RoundedCylinderTest.groovy"
+    "https://github.com/JansenSmith/sphere_JansenSmith.git:sphere.groovy": [
+      "https://github.com/JansenSmith/sphere_JansenSmith.git",
+      "sphere.groovy"
     ],
     "https://github.com/JansenSmith/JanKalMealVoucher.git:JanKal_MealVoucher.groovy": [
       "https://github.com/JansenSmith/JanKalMealVoucher.git",
       "JanKal_MealVoucher.groovy"
+    ],
+    "https://github.com/JansenSmith/JanKalMealVoucher.git:JanKal_MealVoucher.svg": [
+      "https://github.com/JansenSmith/JanKalMealVoucher.git",
+      "JanKal_MealVoucher.svg"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
@@ -159,7 +155,7 @@
     "firstVersion": "1.30.0",
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 36.0,
+    "fontsize": 18.0,
     "skinBranch": "1.45.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true,
