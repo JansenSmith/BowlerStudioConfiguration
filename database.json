@@ -60,10 +60,6 @@
       "https://github.com/JansenSmith/TextToSpeech_JansenSmith.git",
       "1674705194518"
     ],
-    "https://github.com/madhephaestus/basicincomeviatransactiontax.git": [
-      "madhephaestus/basicincomeviatransactiontax",
-      "1670698278731"
-    ],
     "https://github.com/JansenSmith/41-dover.git": [
       "JansenSmith/41-dover",
       "1671300568047"
@@ -75,6 +71,10 @@
     "https://github.com/JansenSmith/helloWorld_JansenSmith.git": [
       "JansenSmith/helloWorld_JansenSmith",
       "1681586274222"
+    ],
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
+      "CommonWealthRobotics/DHParametersCadDisplay",
+      "1682637000914"
     ],
     "https://github.com/JansenSmith/ChamferedParts_JansenSmith.git": [
       "https://github.com/JansenSmith/ChamferedParts_JansenSmith.git",
@@ -101,6 +101,10 @@
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:TendyTheTankEngine.xml": [
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "TendyTheTankEngine.xml"
+    ],
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
+      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
+      "dhcad.groovy"
     ],
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:TendyTheTankEngineCad.groovy": [
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
