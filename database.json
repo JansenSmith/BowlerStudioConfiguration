@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "": [
+      "Project ",
+      "1683048253604"
+    ],
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git": [
       "TechnocopiaPlant/TendyTheTankEngine",
       "1681335761507"
@@ -31,10 +35,6 @@
     "https://github.com/CommonWealthRobotics/MealVoucher-SVGtest.git": [
       "CommonWealthRobotics/MealVoucher-SVGtest",
       "1677511489477"
-    ],
-    "https://github.com/madhephaestus/HonkyHorn.git": [
-      "madhephaestus/HonkyHorn",
-      "1674665511430"
     ],
     "https://github.com/JansenSmith/cube_JansenSmith.git": [
       "JansenSmith/cube_JansenSmith",
