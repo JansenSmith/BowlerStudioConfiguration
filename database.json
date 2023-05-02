@@ -8,6 +8,10 @@
       "JansenSmith/JanKalMealVoucher",
       "1677450431224"
     ],
+    "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git": [
+      "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git",
+      "1683048252368"
+    ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
       "1682982012314"
@@ -60,10 +64,6 @@
       "https://github.com/JansenSmith/TextToSpeech_JansenSmith.git",
       "1674705194518"
     ],
-    "https://github.com/JansenSmith/41-dover.git": [
-      "JansenSmith/41-dover",
-      "1671300568047"
-    ],
     "https://gist.github.com/21c02fc054a1a279cb16c9a6ae5a603a.git": [
       "https://gist.github.com/21c02fc054a1a279cb16c9a6ae5a603a.git",
       "1677623898764"
@@ -102,6 +102,10 @@
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "TendyTheTankEngine.xml"
     ],
+    "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git:LinearBearing.groovy": [
+      "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git",
+      "LinearBearing.groovy"
+    ],
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:TendyTheTankEngineCad.groovy": [
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "TendyTheTankEngineCad.groovy"
@@ -109,6 +113,10 @@
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLiftCad.groovy": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLiftCad.groovy"
+    ],
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git:cleat.groovy": [
+      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
+      "cleat.groovy"
     ],
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
       "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
