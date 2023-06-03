@@ -32,6 +32,10 @@
       "JansenSmith/technocopiaefficiency",
       "1683048414000"
     ],
+    "https://github.com/JansenSmith/ToroidTest_JansenSmith.git": [
+      "https://github.com/JansenSmith/ToroidTest_JansenSmith.git",
+      "1685823010822"
+    ],
     "https://github.com/JansenSmith/cube_JansenSmith.git": [
       "JansenSmith/cube_JansenSmith",
       "1681586972564"
@@ -43,10 +47,6 @@
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
       "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
       "1682636982247"
-    ],
-    "https://github.com/JansenSmith/union_JansenSmith.git": [
-      "https://github.com/JansenSmith/union_JansenSmith.git",
-      "1675621004495"
     ],
     "https://gist.github.com/2374524a0882601de95fc16e47dfd9e9.git": [
       "https://gist.github.com/2374524a0882601de95fc16e47dfd9e9.git",
@@ -121,6 +121,10 @@
     "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLift.xml"
+    ],
+    "https://github.com/JansenSmith/ToroidTest_JansenSmith.git:ToroidTest.groovy": [
+      "https://github.com/JansenSmith/ToroidTest_JansenSmith.git",
+      "ToroidTest.groovy"
     ],
     "https://github.com/JansenSmith/JanKalMealVoucher.git:JanKal_MealVoucher.groovy": [
       "https://github.com/JansenSmith/JanKalMealVoucher.git",
