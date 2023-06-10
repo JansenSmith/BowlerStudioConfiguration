@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "": [
+      "Project ",
+      "1686419335189"
+    ],
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git": [
       "TechnocopiaPlant/TendyTheTankEngine",
       "1681335761507"
@@ -43,10 +47,6 @@
     "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
       "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
       "1682636982247"
-    ],
-    "https://gist.github.com/2374524a0882601de95fc16e47dfd9e9.git": [
-      "https://gist.github.com/2374524a0882601de95fc16e47dfd9e9.git",
-      "1677620371183"
     ],
     "https://github.com/JansenSmith/roundedcube_JansenSmith.git": [
       "https://github.com/JansenSmith/roundedcube_JansenSmith.git",
