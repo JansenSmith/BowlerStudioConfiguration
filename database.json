@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git": [
+      "TechnocopiaPlant/TendyTheTankEngine",
+      "1686763394202"
+    ],
     "https://github.com/JansenSmith/JanKalMealVoucher.git": [
       "JansenSmith/JanKalMealVoucher",
       "1686148966424"
@@ -63,10 +67,6 @@
     "https://github.com/madhephaestus/TextToSpeechASDRTest.git": [
       "madhephaestus/TextToSpeechASDRTest",
       "1685820768132"
-    ],
-    "https://github.com/JansenSmith/helloWorld_JansenSmith.git": [
-      "JansenSmith/helloWorld_JansenSmith",
-      "1681586274222"
     ],
     "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
       "CommonWealthRobotics/DHParametersCadDisplay",
