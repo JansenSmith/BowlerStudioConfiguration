@@ -166,6 +166,10 @@
       "https://github.com/JansenSmith/RoundedCylinderTest_JansenSmith.git",
       "RoundedCylinderTest.groovy"
     ],
+    "https://github.com/JansenSmith/Laputa.git:Laputa.groovy": [
+      "https://github.com/JansenSmith/Laputa.git",
+      "Laputa.groovy"
+    ],
     "https://github.com/JansenSmith/JanKalMealVoucher.git:JanKal_MealVoucher.svg": [
       "https://github.com/JansenSmith/JanKalMealVoucher.git",
       "JanKal_MealVoucher.svg"
