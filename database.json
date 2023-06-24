@@ -40,6 +40,10 @@
       "https://github.com/JansenSmith/Laputa.git",
       "1686721192769"
     ],
+    "https://github.com/OperationSmallKat/Marcos.git": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "1687627389727"
+    ],
     "https://github.com/JansenSmith/RoundedCylinderTest_JansenSmith.git": [
       "https://github.com/JansenSmith/RoundedCylinderTest_JansenSmith.git",
       "1681764346840"
@@ -77,6 +81,7 @@
       "1681587366643"
     ]
   },
+  "studio-open-web": {},
   "katapult": {
     "gameControllerNames": [
       "Play",
@@ -105,14 +110,6 @@
       "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
       "TendyTheTankEngineCad.groovy"
     ],
-    "https://github.com/JansenSmith/cylinder_JansenSmith.git:cylinder.groovy": [
-      "https://github.com/JansenSmith/cylinder_JansenSmith.git",
-      "cylinder.groovy"
-    ],
-    "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLiftCad.groovy": [
-      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
-      "ForkyLiftCad.groovy"
-    ],
     "https://github.com/madhephaestus/YoloJava.git:YoloJava.groovy": [
       "https://github.com/madhephaestus/YoloJava.git",
       "YoloJava.groovy"
@@ -129,13 +126,25 @@
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLift.xml"
     ],
-    "https://github.com/JansenSmith/Laputa.git:Laputa.groovy": [
-      "https://github.com/JansenSmith/Laputa.git",
-      "Laputa.groovy"
-    ],
     "https://github.com/JansenSmith/JanKalMealVoucher.git:JanKal_MealVoucher.groovy": [
       "https://github.com/JansenSmith/JanKalMealVoucher.git",
       "JanKal_MealVoucher.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosCad.groovy"
+    ],
+    "https://github.com/JansenSmith/cylinder_JansenSmith.git:cylinder.groovy": [
+      "https://github.com/JansenSmith/cylinder_JansenSmith.git",
+      "cylinder.groovy"
+    ],
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLiftCad.groovy": [
+      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
+      "ForkyLiftCad.groovy"
+    ],
+    "https://github.com/JansenSmith/Laputa.git:Laputa.groovy": [
+      "https://github.com/JansenSmith/Laputa.git",
+      "Laputa.groovy"
     ],
     "https://github.com/JansenSmith/JanKalMealVoucher.git:JanKal_MealVoucher.svg": [
       "https://github.com/JansenSmith/JanKalMealVoucher.git",
