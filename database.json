@@ -142,6 +142,10 @@
       "https://github.com/TechnocopiaPlant/ForkyRobot.git",
       "ForkyLiftCad.groovy"
     ],
+    "https://github.com/JansenSmith/Laputa.git:TestAPI.groovy": [
+      "https://github.com/JansenSmith/Laputa.git",
+      "TestAPI.groovy"
+    ],
     "https://github.com/JansenSmith/Laputa.git:Laputa.groovy": [
       "https://github.com/JansenSmith/Laputa.git",
       "Laputa.groovy"
