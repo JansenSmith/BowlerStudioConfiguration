@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "": [
+      "Project ",
+      "1690129424148"
+    ],
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git": [
       "TechnocopiaPlant/TendyTheTankEngine",
       "1686763394202"
@@ -19,10 +23,6 @@
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
       "1682982012314"
-    ],
-    "https://github.com/JansenSmith/sphere_JansenSmith.git": [
-      "JansenSmith/sphere_JansenSmith",
-      "1681590227574"
     ],
     "https://github.com/JansenSmith/cylinder_JansenSmith.git": [
       "https://github.com/JansenSmith/cylinder_JansenSmith.git",
