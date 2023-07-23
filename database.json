@@ -89,7 +89,12 @@
   "MenueSettings": {
     "printCSG": false
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/Halloween2020TheChild/Zoltar.git:CrystalStand.groovy": [
+      "https://github.com/Halloween2020TheChild/Zoltar.git",
+      "CrystalStand.groovy"
+    ]
+  },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
