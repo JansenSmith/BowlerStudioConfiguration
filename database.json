@@ -1,9 +1,5 @@
 {
   "workspace": {
-    "": [
-      "Project ",
-      "1690132788523"
-    ],
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git": [
       "TechnocopiaPlant/TendyTheTankEngine",
       "1686763394202"
@@ -165,10 +161,6 @@
     "https://github.com/JansenSmith/RoundedCylinderTest_JansenSmith.git:RoundedCylinderTest.groovy": [
       "https://github.com/JansenSmith/RoundedCylinderTest_JansenSmith.git",
       "RoundedCylinderTest.groovy"
-    ],
-    "https://github.com/JansenSmith/JanKalMealVoucher.git:JanKal_MealVoucher.svg": [
-      "https://github.com/JansenSmith/JanKalMealVoucher.git",
-      "JanKal_MealVoucher.svg"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
