@@ -89,76 +89,7 @@
   "MenueSettings": {
     "printCSG": false
   },
-  "studio-open-git": {
-    "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:TendyTheTankEngine.xml": [
-      "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
-      "TendyTheTankEngine.xml"
-    ],
-    "https://github.com/madhephaestus/TextToSpeechASDRTest.git:TextToSpeechASDRTest.groovy": [
-      "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
-      "TextToSpeechASDRTest.groovy"
-    ],
-    "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git:TendyTheTankEngineCad.groovy": [
-      "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git",
-      "TendyTheTankEngineCad.groovy"
-    ],
-    "https://github.com/madhephaestus/YoloJava.git:YoloJava.groovy": [
-      "https://github.com/madhephaestus/YoloJava.git",
-      "YoloJava.groovy"
-    ],
-    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
-      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
-      "heatedThreadedInsert.groovy"
-    ],
-    "https://github.com/JansenSmith/technocopiaefficiency.git:FromSunlight.groovy": [
-      "https://github.com/JansenSmith/technocopiaefficiency.git",
-      "FromSunlight.groovy"
-    ],
-    "https://github.com/TechnocopiaPlant/ForkyRobot.git:ForkyLift.xml": [
-      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
-      "ForkyLift.xml"
-    ],
-    "https://github.com/JansenSmith/ToroidTest_JansenSmith.git:ToroidTest.groovy": [
-      "https://github.com/JansenSmith/ToroidTest_JansenSmith.git",
-      "ToroidTest.groovy"
-    ],
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
-      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
-      "dhcad.groovy"
-    ],
-    "https://github.com/JansenSmith/union_JansenSmith.git:union.groovy": [
-      "https://github.com/JansenSmith/union_JansenSmith.git",
-      "union.groovy"
-    ],
-    "https://github.com/JansenSmith/cylinder_JansenSmith.git:cylinder.groovy": [
-      "https://github.com/JansenSmith/cylinder_JansenSmith.git",
-      "cylinder.groovy"
-    ],
-    "https://github.com/TechnocopiaPlant/ForkyRobot.git:robotBase.groovy": [
-      "https://github.com/TechnocopiaPlant/ForkyRobot.git",
-      "robotBase.groovy"
-    ],
-    "https://github.com/JansenSmith/roundedcube_JansenSmith.git:roundedcube.groovy": [
-      "https://github.com/JansenSmith/roundedcube_JansenSmith.git",
-      "roundedcube.groovy"
-    ],
-    "https://github.com/Halloween2020TheChild/Zoltar.git:ZoltarController.groovy": [
-      "https://github.com/Halloween2020TheChild/Zoltar.git",
-      "ZoltarController.groovy"
-    ],
-    "https://github.com/madhephaestus/YoloJava.git:ResnetWithCamera.groovy": [
-      "https://github.com/madhephaestus/YoloJava.git",
-      "ResnetWithCamera.groovy"
-    ],
-    "https://github.com/JansenSmith/Laputa.git:Laputa.groovy": [
-      "https://github.com/JansenSmith/Laputa.git",
-      "Laputa.groovy"
-    ],
-    "https://github.com/JansenSmith/RoundedCylinderTest_JansenSmith.git:RoundedCylinderTest.groovy": [
-      "https://github.com/JansenSmith/RoundedCylinderTest_JansenSmith.git",
-      "RoundedCylinderTest.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
