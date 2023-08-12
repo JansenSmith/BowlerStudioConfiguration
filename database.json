@@ -94,13 +94,13 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://github.com/madhephaestus/TextToSpeechASDRTest.git:TextToSpeechASDRTest.groovy": [
-      "https://github.com/madhephaestus/TextToSpeechASDRTest.git",
-      "TextToSpeechASDRTest.groovy"
-    ],
     "https://github.com/Halloween2020TheChild/Zoltar.git:CrystalStand.groovy": [
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "CrystalStand.groovy"
+    ],
+    "https://github.com/MichaelJamesFinnerty/crystal_ball_demo_for_jansen.git:TextToSpeechASDRTest_finn_expo.groovy": [
+      "https://github.com/MichaelJamesFinnerty/crystal_ball_demo_for_jansen.git",
+      "TextToSpeechASDRTest_finn_expo.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
