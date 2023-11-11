@@ -98,6 +98,10 @@
       "https://github.com/Halloween2020TheChild/Zoltar.git",
       "CrystalStand.groovy"
     ],
+    "https://github.com/JansenSmith/technocopiaefficiency.git:FromSunlight.groovy": [
+      "https://github.com/JansenSmith/technocopiaefficiency.git",
+      "FromSunlight.groovy"
+    ],
     "https://github.com/MichaelJamesFinnerty/crystal_ball_demo_for_jansen.git:TextToSpeechASDRTest_finn_expo.groovy": [
       "https://github.com/MichaelJamesFinnerty/crystal_ball_demo_for_jansen.git",
       "TextToSpeechASDRTest_finn_expo.groovy"
