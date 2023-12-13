@@ -12,6 +12,10 @@
       "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git",
       "1683048252368"
     ],
+    "https://github.com/JansenSmith/JanKalMealVoucher.git": [
+      "JansenSmith/JanKalMealVoucher",
+      "1702479700156"
+    ],
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
       "1682982012314"
@@ -93,12 +97,7 @@
   "MenueSettings": {
     "printCSG": false
   },
-  "studio-open-git": {
-    "https://github.com/JansenSmith/technocopiaefficiency.git:FromSunlight.groovy": [
-      "https://github.com/JansenSmith/technocopiaefficiency.git",
-      "FromSunlight.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
