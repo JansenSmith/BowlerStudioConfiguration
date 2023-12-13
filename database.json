@@ -2,7 +2,7 @@
   "workspace": {
     "": [
       "Project ",
-      "1699718107671"
+      "1702479598991"
     ],
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git": [
       "TechnocopiaPlant/TendyTheTankEngine",
@@ -98,17 +98,9 @@
     "printCSG": false
   },
   "studio-open-git": {
-    "https://github.com/Halloween2020TheChild/Zoltar.git:CrystalStand.groovy": [
-      "https://github.com/Halloween2020TheChild/Zoltar.git",
-      "CrystalStand.groovy"
-    ],
     "https://github.com/JansenSmith/technocopiaefficiency.git:FromSunlight.groovy": [
       "https://github.com/JansenSmith/technocopiaefficiency.git",
       "FromSunlight.groovy"
-    ],
-    "https://github.com/MichaelJamesFinnerty/crystal_ball_demo_for_jansen.git:TextToSpeechASDRTest_finn_expo.groovy": [
-      "https://github.com/MichaelJamesFinnerty/crystal_ball_demo_for_jansen.git",
-      "TextToSpeechASDRTest_finn_expo.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
