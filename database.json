@@ -93,7 +93,12 @@
   "MenueSettings": {
     "printCSG": false
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/JansenSmith/SDXLvoucher.git:JanKal_SDXLvoucher.groovy": [
+      "https://github.com/JansenSmith/SDXLvoucher.git",
+      "JanKal_SDXLvoucher.groovy"
+    ]
+  },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
