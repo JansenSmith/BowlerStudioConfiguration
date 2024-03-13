@@ -98,13 +98,17 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosCad.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git:Marcos.xml": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "Marcos.xml"
+    ],
     "https://github.com/JansenSmith/SDXLvoucher.git:JanKal_SDXLvoucher.groovy": [
       "https://github.com/JansenSmith/SDXLvoucher.git",
       "JanKal_SDXLvoucher.groovy"
-    ],
-    "https://github.com/JansenSmith/joystickCoversCadGenerator.git:joystickCovers.groovy": [
-      "https://github.com/JansenSmith/joystickCoversCadGenerator.git",
-      "joystickCovers.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
