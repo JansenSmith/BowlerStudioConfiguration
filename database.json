@@ -20,6 +20,10 @@
       "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
       "1682982012314"
     ],
+    "https://github.com/JansenSmith/joystickCoversCadGenerator.git": [
+      "https://github.com/JansenSmith/joystickCoversCadGenerator.git",
+      "1710342381771"
+    ],
     "https://github.com/JansenSmith/technocopiaefficiency.git": [
       "JansenSmith/technocopiaefficiency",
       "1683048414000"
@@ -97,6 +101,10 @@
     "https://github.com/JansenSmith/SDXLvoucher.git:JanKal_SDXLvoucher.groovy": [
       "https://github.com/JansenSmith/SDXLvoucher.git",
       "JanKal_SDXLvoucher.groovy"
+    ],
+    "https://github.com/JansenSmith/joystickCoversCadGenerator.git:joystickCovers.groovy": [
+      "https://github.com/JansenSmith/joystickCoversCadGenerator.git",
+      "joystickCovers.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
