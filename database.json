@@ -8,6 +8,10 @@
       "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
       "1687131687540"
     ],
+    "https://github.com/madhephaestus/MuJoCoTest.git": [
+      "madhephaestus/MuJoCoTest",
+      "1711154421314"
+    ],
     "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git": [
       "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git",
       "1683048252368"
@@ -43,10 +47,6 @@
     "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
       "TechnocopiaPlant/ForkyRobot",
       "1686721046291"
-    ],
-    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
-      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
-      "1682636982247"
     ],
     "https://github.com/JansenSmith/union_JansenSmith.git": [
       "JansenSmith/union_JansenSmith",
