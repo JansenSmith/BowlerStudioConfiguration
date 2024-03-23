@@ -44,6 +44,10 @@
       "TechnocopiaPlant/ForkyRobot",
       "1686721046291"
     ],
+    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
+      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
+      "1682636982247"
+    ],
     "https://github.com/JansenSmith/union_JansenSmith.git": [
       "JansenSmith/union_JansenSmith",
       "1686719301178"
@@ -127,7 +131,7 @@
     "firstVersion": "1.30.0",
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 16,
+    "fontsize": 16.0,
     "skinBranch": "1.45.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true,
