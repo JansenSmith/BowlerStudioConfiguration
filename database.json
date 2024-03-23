@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "": [
+      "Project ",
+      "1711208078491"
+    ],
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git": [
       "TechnocopiaPlant/TendyTheTankEngine",
       "1686763394202"
@@ -71,10 +75,6 @@
     "https://github.com/madhephaestus/TextToSpeechASDRTest.git": [
       "madhephaestus/TextToSpeechASDRTest",
       "1685820768132"
-    ],
-    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
-      "CommonWealthRobotics/DHParametersCadDisplay",
-      "1682637000914"
     ],
     "https://github.com/Halloween2020TheChild/Zoltar.git": [
       "https://github.com/Halloween2020TheChild/Zoltar.git",
