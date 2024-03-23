@@ -98,6 +98,10 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/madhephaestus/MuJoCoTest.git:MujocoManagerTest.groovy": [
+      "https://github.com/madhephaestus/MuJoCoTest.git",
+      "MujocoManagerTest.groovy"
+    ],
     "https://github.com/madhephaestus/MuJoCoTest.git:MuJoCoTest.groovy": [
       "https://github.com/madhephaestus/MuJoCoTest.git",
       "MuJoCoTest.groovy"
