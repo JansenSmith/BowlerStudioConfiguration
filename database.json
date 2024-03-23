@@ -97,7 +97,12 @@
   "MenueSettings": {
     "printCSG": false
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/madhephaestus/MuJoCoTest.git:MuJoCoTest.groovy": [
+      "https://github.com/madhephaestus/MuJoCoTest.git",
+      "MuJoCoTest.groovy"
+    ]
+  },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
@@ -118,7 +123,7 @@
     "firstVersion": "1.30.0",
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 16.0,
+    "fontsize": 28,
     "skinBranch": "1.45.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true,
