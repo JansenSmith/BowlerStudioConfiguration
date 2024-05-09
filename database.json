@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "": [
+      "Project ",
+      "1715221956958"
+    ],
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git": [
       "TechnocopiaPlant/TendyTheTankEngine",
       "1686763394202"
@@ -101,6 +105,10 @@
     "https://github.com/JansenSmith/OpensourcererSpaceMouse.git:OpensourcererSpaceMouse.groovy": [
       "https://github.com/JansenSmith/OpensourcererSpaceMouse.git",
       "OpensourcererSpaceMouse.groovy"
+    ],
+    "https://github.com/JansenSmith/JanKalMealVoucher.git:JanKal_MealVoucher.groovy": [
+      "https://github.com/JansenSmith/JanKalMealVoucher.git",
+      "JanKal_MealVoucher.groovy"
     ]
   },
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
@@ -123,7 +131,7 @@
     "firstVersion": "1.30.0",
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 32.0,
+    "fontsize": 20,
     "skinBranch": "1.45.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true,
