@@ -94,6 +94,10 @@
     "printCSG": false
   },
   "studio-open-git": {
+    "https://github.com/JansenSmith/OpensourcererSpaceMouse.git:v2-frame.stl": [
+      "https://github.com/JansenSmith/OpensourcererSpaceMouse.git",
+      "v2-frame.stl"
+    ],
     "https://github.com/JansenSmith/OpensourcererSpaceMouse.git:OpensourcererSpaceMouse.groovy": [
       "https://github.com/JansenSmith/OpensourcererSpaceMouse.git",
       "OpensourcererSpaceMouse.groovy"
