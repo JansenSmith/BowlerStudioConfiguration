@@ -93,12 +93,7 @@
   "MenueSettings": {
     "printCSG": false
   },
-  "studio-open-git": {
-    "https://github.com/madhephaestus/MuJoCoTest.git:MujocoManagerTest.groovy": [
-      "https://github.com/madhephaestus/MuJoCoTest.git",
-      "MujocoManagerTest.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "PDP CO.,LTD. Faceoff Wired Pro Controller for Nintendo Switch": {
     "A": "y-mode",
     "B": "b-mode",
