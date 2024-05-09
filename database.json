@@ -1,9 +1,5 @@
 {
   "workspace": {
-    "": [
-      "Project ",
-      "1715220513294"
-    ],
     "https://github.com/TechnocopiaPlant/TendyTheTankEngine.git": [
       "TechnocopiaPlant/TendyTheTankEngine",
       "1686763394202"
@@ -123,7 +119,7 @@
     "firstVersion": "1.30.0",
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 20,
+    "fontsize": 20.0,
     "skinBranch": "1.45.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true,
